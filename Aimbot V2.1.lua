@@ -1161,7 +1161,7 @@ ScreenGui.TextLabel_14.BorderSizePixel = 0
 ScreenGui.TextLabel_14.Position = UDim2.new(0.0333333351, 0, 0.142857149, 0)
 ScreenGui.TextLabel_14.Size = UDim2.new(0.877777755, 0, 0.714285731, 0)
 ScreenGui.TextLabel_14.Font = Enum.Font.FredokaOne
-ScreenGui.TextLabel_14.Text = "?? Settings"
+ScreenGui.TextLabel_14.Text = "‚öôÔ∏è Settings"
 ScreenGui.TextLabel_14.TextColor3 = Color3.fromRGB(255, 255, 255)
 ScreenGui.TextLabel_14.TextScaled = true
 ScreenGui.TextLabel_14.TextSize = 14.000
@@ -1326,7 +1326,7 @@ local function UPSSCGD_fake_script() -- ScreenGui.ScreenGui.LocalScript
 		openButton.Visible = true
 	end)
 	
-	-- OtwÛrz GUI
+	-- Otw√≥rz GUI
 	openButton.MouseButton1Click:Connect(function()
 		mainFrame.Visible = true
 		openButton.Visible = false
@@ -1342,13 +1342,13 @@ local function ICUHYR_fake_script() -- ScreenGui.MainFrame.LocalScript
 	local settingsButton = mainFrame:WaitForChild("SettingsOpen")
 	local settingsFrame = mainFrame:WaitForChild("SettingsFrame")
 	
-	-- Upewniamy siÍ, øe przycisk jest przezroczysty
+	-- Upewniamy si√™, ¬øe przycisk jest przezroczysty
 	settingsButton.BackgroundTransparency = 1
 	
-	-- Na poczπtku SettingsFrame jest ukryty
+	-- Na pocz¬πtku SettingsFrame jest ukryty
 	settingsFrame.Visible = false
 	
-	-- KlikniÍcie przycisku otwiera / zamyka SettingsFrame
+	-- Klikni√™cie przycisku otwiera / zamyka SettingsFrame
 	settingsButton.MouseButton1Click:Connect(function()
 		settingsFrame.Visible = not settingsFrame.Visible
 	end)
@@ -1372,7 +1372,7 @@ local function VIOGLI_fake_script() -- ScreenGui.SliderBar.LocalScript
 		end
 	end)
 	
-	-- Kiedy puúcisz mysz
+	-- Kiedy pu¬úcisz mysz
 	UserInputService.InputEnded:Connect(function(input)
 		if input.UserInputType == Enum.UserInputType.MouseButton1 then
 			dragging = false
@@ -1387,13 +1387,13 @@ local function VIOGLI_fake_script() -- ScreenGui.SliderBar.LocalScript
 			local sliderPos = slider.AbsolutePosition.X
 			local sliderSize = slider.AbsoluteSize.X
 	
-			-- Oblicz procent (0ñ1)
+			-- Oblicz procent (0¬ñ1)
 			local percent = math.clamp((mousePos - sliderPos) / sliderSize, 0, 1)
 	
-			-- PrzesuÒ handle
+			-- Przesu√± handle
 			handle.Position = UDim2.new(percent, 0, 0.5, 0)
 	
-			print("WartoúÊ:", math.floor(percent * 100))
+			print("Warto¬ú√¶:", math.floor(percent * 100))
 		end
 	end)
 	
@@ -1417,7 +1417,7 @@ local function RRCSF_fake_script() -- ScreenGui.TextButton.LocalScript
 	local holdingRightClick = false
 	local originalSubject = camera.CameraSubject
 	
-	-- ====== 1?? KlikniÍcie przycisku (1cm + w≥πczenie trybu) ======
+	-- ====== 1?? Klikni√™cie przycisku (1cm + w¬≥¬πczenie trybu) ======
 	button.MouseButton1Click:Connect(function()
 		if not moved then
 	
@@ -1439,7 +1439,7 @@ local function RRCSF_fake_script() -- ScreenGui.TextButton.LocalScript
 			tween:Play()
 	
 			moved = true
-			focusEnabled = true -- w≥πczamy tryb focus
+			focusEnabled = true -- w¬≥¬πczamy tryb focus
 		end
 	end)
 	
@@ -1457,7 +1457,7 @@ local function RRCSF_fake_script() -- ScreenGui.TextButton.LocalScript
 		end
 	end)
 	
-	-- ====== 3?? Fokus na g≥owÍ gracza ======
+	-- ====== 3?? Fokus na g¬≥ow√™ gracza ======
 	RunService.RenderStepped:Connect(function()
 		if focusEnabled and holdingRightClick then
 	
@@ -1490,7 +1490,7 @@ local function RIMYSI_fake_script() -- ScreenGui.SliderBar_2.LocalScript
 		end
 	end)
 	
-	-- Kiedy puúcisz mysz
+	-- Kiedy pu¬úcisz mysz
 	UserInputService.InputEnded:Connect(function(input)
 		if input.UserInputType == Enum.UserInputType.MouseButton1 then
 			dragging = false
@@ -1505,13 +1505,13 @@ local function RIMYSI_fake_script() -- ScreenGui.SliderBar_2.LocalScript
 			local sliderPos = slider.AbsolutePosition.X
 			local sliderSize = slider.AbsoluteSize.X
 	
-			-- Oblicz procent (0ñ1)
+			-- Oblicz procent (0¬ñ1)
 			local percent = math.clamp((mousePos - sliderPos) / sliderSize, 0, 1)
 	
-			-- PrzesuÒ handle
+			-- Przesu√± handle
 			handle.Position = UDim2.new(percent, 0, 0.5, 0)
 	
-			print("WartoúÊ:", math.floor(percent * 100))
+			print("Warto¬ú√¶:", math.floor(percent * 100))
 		end
 	end)
 	
@@ -1532,7 +1532,7 @@ local function FZIFIEC_fake_script() -- ScreenGui.TextButton_2.LocalScript
 	
 	button.MouseButton1Click:Connect(function()
 		if not moved then
-			-- 1?? Animacja przesuniÍcia buttona
+			-- 1?? Animacja przesuni√™cia buttona
 			local tweenInfo = TweenInfo.new(
 				0.3, -- czas animacji
 				Enum.EasingStyle.Quad,
@@ -1542,7 +1542,7 @@ local function FZIFIEC_fake_script() -- ScreenGui.TextButton_2.LocalScript
 			local goal = {
 				Position = UDim2.new(
 					button.Position.X.Scale,
-					button.Position.X.Offset + 37, -- przesuniÍcie o ~1 cm
+					button.Position.X.Offset + 37, -- przesuni√™cie o ~1 cm
 					button.Position.Y.Scale,
 					button.Position.Y.Offset
 				)
@@ -1553,11 +1553,11 @@ local function FZIFIEC_fake_script() -- ScreenGui.TextButton_2.LocalScript
 	
 			moved = true
 	
-			-- 2?? Po zakoÒczeniu animacji powiÍkszamy hitbox
+			-- 2?? Po zako√±czeniu animacji powi√™kszamy hitbox
 			tween.Completed:Connect(function()
-				-- ZwiÍkszamy HumanoidRootPart o 40 w kaødej osi
+				-- Zwi√™kszamy HumanoidRootPart o 40 w ka¬ødej osi
 				hrp.Size = hrp.Size + Vector3.new(40, 40, 40)
-				print("Hitbox powiÍkszony o 40! Aktualny rozmiar:", hrp.Size)
+				print("Hitbox powi√™kszony o 40! Aktualny rozmiar:", hrp.Size)
 			end)
 		end
 	end)
@@ -1581,7 +1581,7 @@ local function YCULUPN_fake_script() -- ScreenGui.SliderBar_3.LocalScript
 		end
 	end)
 	
-	-- Kiedy puúcisz mysz
+	-- Kiedy pu¬úcisz mysz
 	UserInputService.InputEnded:Connect(function(input)
 		if input.UserInputType == Enum.UserInputType.MouseButton1 then
 			dragging = false
@@ -1596,13 +1596,13 @@ local function YCULUPN_fake_script() -- ScreenGui.SliderBar_3.LocalScript
 			local sliderPos = slider.AbsolutePosition.X
 			local sliderSize = slider.AbsoluteSize.X
 	
-			-- Oblicz procent (0ñ1)
+			-- Oblicz procent (0¬ñ1)
 			local percent = math.clamp((mousePos - sliderPos) / sliderSize, 0, 1)
 	
-			-- PrzesuÒ handle
+			-- Przesu√± handle
 			handle.Position = UDim2.new(percent, 0, 0.5, 0)
 	
-			print("WartoúÊ:", math.floor(percent * 100))
+			print("Warto¬ú√¶:", math.floor(percent * 100))
 		end
 	end)
 	
@@ -1622,13 +1622,13 @@ local function LQCD_fake_script() -- ScreenGui.TextButton_3.LocalScript
 	local camera = workspace.CurrentCamera
 	local button = script.Parent
 	
-	-- ====== 1?? PrzesuniÍcie buttona ======
+	-- ====== 1?? Przesuni√™cie buttona ======
 	local moved = false
 	local flyEnabled = false
 	
 	button.MouseButton1Click:Connect(function()
 		if not moved then
-			-- animacja przesuniÍcia
+			-- animacja przesuni√™cia
 			local tweenInfo = TweenInfo.new(0.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out)
 			local goal = {Position = UDim2.new(button.Position.X.Scale, button.Position.X.Offset + 37, button.Position.Y.Scale, button.Position.Y.Offset)}
 			local tween = TweenService:Create(button, tweenInfo, goal)
@@ -1636,7 +1636,7 @@ local function LQCD_fake_script() -- ScreenGui.TextButton_3.LocalScript
 	
 			moved = true
 	
-			-- po zakoÒczeniu animacji w≥πcz fly
+			-- po zako√±czeniu animacji w¬≥¬πcz fly
 			tween.Completed:Connect(function()
 				startFly()
 			end)
@@ -1726,14 +1726,14 @@ local function VOIV_fake_script() -- ScreenGui.SliderKnob.LocalScript
 	local slider = knob.Parent  -- pasek
 	local dragging = false
 	
-	-- Funkcja startu przeciπgania
+	-- Funkcja startu przeci¬πgania
 	knob.InputBegan:Connect(function(input)
 		if input.UserInputType == Enum.UserInputType.MouseButton1 then
 			dragging = true
 		end
 	end)
 	
-	-- Funkcja koÒca przeciπgania
+	-- Funkcja ko√±ca przeci¬πgania
 	knob.InputEnded:Connect(function(input)
 		if input.UserInputType == Enum.UserInputType.MouseButton1 then
 			dragging = false
@@ -1747,7 +1747,7 @@ local function VOIV_fake_script() -- ScreenGui.SliderKnob.LocalScript
 			local sliderPos = slider.AbsolutePosition.X
 			local sliderSize = slider.AbsoluteSize.X
 	
-			-- Obliczamy nowπ pozycjÍ kropki w granicach paska
+			-- Obliczamy now¬π pozycj√™ kropki w granicach paska
 			local newX = math.clamp(mouseX - sliderPos, 0, sliderSize)
 			knob.Position = UDim2.new(0, newX, knob.Position.Y.Scale, knob.Position.Y.Offset)
 		end
@@ -1762,14 +1762,14 @@ local function HDZL_fake_script() -- ScreenGui.SliderKnob_2.LocalScript
 	local slider = knob.Parent  -- pasek
 	local dragging = false
 	
-	-- Funkcja startu przeciπgania
+	-- Funkcja startu przeci¬πgania
 	knob.InputBegan:Connect(function(input)
 		if input.UserInputType == Enum.UserInputType.MouseButton1 then
 			dragging = true
 		end
 	end)
 	
-	-- Funkcja koÒca przeciπgania
+	-- Funkcja ko√±ca przeci¬πgania
 	knob.InputEnded:Connect(function(input)
 		if input.UserInputType == Enum.UserInputType.MouseButton1 then
 			dragging = false
@@ -1783,7 +1783,7 @@ local function HDZL_fake_script() -- ScreenGui.SliderKnob_2.LocalScript
 			local sliderPos = slider.AbsolutePosition.X
 			local sliderSize = slider.AbsoluteSize.X
 	
-			-- Obliczamy nowπ pozycjÍ kropki w granicach paska
+			-- Obliczamy now¬π pozycj√™ kropki w granicach paska
 			local newX = math.clamp(mouseX - sliderPos, 0, sliderSize)
 			knob.Position = UDim2.new(0, newX, knob.Position.Y.Scale, knob.Position.Y.Offset)
 		end
@@ -1798,14 +1798,14 @@ local function UMYCMIJ_fake_script() -- ScreenGui.SliderKnob_3.LocalScript
 	local slider = knob.Parent  -- pasek
 	local dragging = false
 	
-	-- Funkcja startu przeciπgania
+	-- Funkcja startu przeci¬πgania
 	knob.InputBegan:Connect(function(input)
 		if input.UserInputType == Enum.UserInputType.MouseButton1 then
 			dragging = true
 		end
 	end)
 	
-	-- Funkcja koÒca przeciπgania
+	-- Funkcja ko√±ca przeci¬πgania
 	knob.InputEnded:Connect(function(input)
 		if input.UserInputType == Enum.UserInputType.MouseButton1 then
 			dragging = false
@@ -1819,7 +1819,7 @@ local function UMYCMIJ_fake_script() -- ScreenGui.SliderKnob_3.LocalScript
 			local sliderPos = slider.AbsolutePosition.X
 			local sliderSize = slider.AbsoluteSize.X
 	
-			-- Obliczamy nowπ pozycjÍ kropki w granicach paska
+			-- Obliczamy now¬π pozycj√™ kropki w granicach paska
 			local newX = math.clamp(mouseX - sliderPos, 0, sliderSize)
 			knob.Position = UDim2.new(0, newX, knob.Position.Y.Scale, knob.Position.Y.Offset)
 		end
@@ -1844,7 +1844,7 @@ local function WTULI_fake_script() -- ScreenGui.SliderBar_4.LocalScript
 		end
 	end)
 	
-	-- Kiedy puúcisz mysz
+	-- Kiedy pu¬úcisz mysz
 	UserInputService.InputEnded:Connect(function(input)
 		if input.UserInputType == Enum.UserInputType.MouseButton1 then
 			dragging = false
@@ -1859,13 +1859,13 @@ local function WTULI_fake_script() -- ScreenGui.SliderBar_4.LocalScript
 			local sliderPos = slider.AbsolutePosition.X
 			local sliderSize = slider.AbsoluteSize.X
 	
-			-- Oblicz procent (0ñ1)
+			-- Oblicz procent (0¬ñ1)
 			local percent = math.clamp((mousePos - sliderPos) / sliderSize, 0, 1)
 	
-			-- PrzesuÒ handle
+			-- Przesu√± handle
 			handle.Position = UDim2.new(percent, 0, 0.5, 0)
 	
-			print("WartoúÊ:", math.floor(percent * 100))
+			print("Warto¬ú√¶:", math.floor(percent * 100))
 		end
 	end)
 	
@@ -1889,7 +1889,7 @@ local function XQOKUI_fake_script() -- ScreenGui.TextButton_4.LocalScript
 	local holdingRightClick = false
 	local originalSubject = camera.CameraSubject
 	
-	-- ====== 1?? KlikniÍcie przycisku (1cm + w≥πczenie trybu) ======
+	-- ====== 1?? Klikni√™cie przycisku (1cm + w¬≥¬πczenie trybu) ======
 	button.MouseButton1Click:Connect(function()
 		if not moved then
 	
@@ -1911,7 +1911,7 @@ local function XQOKUI_fake_script() -- ScreenGui.TextButton_4.LocalScript
 			tween:Play()
 	
 			moved = true
-			focusEnabled = true -- w≥πczamy tryb focus
+			focusEnabled = true -- w¬≥¬πczamy tryb focus
 		end
 	end)
 	
@@ -1929,7 +1929,7 @@ local function XQOKUI_fake_script() -- ScreenGui.TextButton_4.LocalScript
 		end
 	end)
 	
-	-- ====== 3?? Fokus na g≥owÍ gracza ======
+	-- ====== 3?? Fokus na g¬≥ow√™ gracza ======
 	RunService.RenderStepped:Connect(function()
 		if focusEnabled and holdingRightClick then
 	
@@ -1962,7 +1962,7 @@ local function WXNUQH_fake_script() -- ScreenGui.SliderBar_5.LocalScript
 		end
 	end)
 	
-	-- Kiedy puúcisz mysz
+	-- Kiedy pu¬úcisz mysz
 	UserInputService.InputEnded:Connect(function(input)
 		if input.UserInputType == Enum.UserInputType.MouseButton1 then
 			dragging = false
@@ -1977,13 +1977,13 @@ local function WXNUQH_fake_script() -- ScreenGui.SliderBar_5.LocalScript
 			local sliderPos = slider.AbsolutePosition.X
 			local sliderSize = slider.AbsoluteSize.X
 	
-			-- Oblicz procent (0ñ1)
+			-- Oblicz procent (0¬ñ1)
 			local percent = math.clamp((mousePos - sliderPos) / sliderSize, 0, 1)
 	
-			-- PrzesuÒ handle
+			-- Przesu√± handle
 			handle.Position = UDim2.new(percent, 0, 0.5, 0)
 	
-			print("WartoúÊ:", math.floor(percent * 100))
+			print("Warto¬ú√¶:", math.floor(percent * 100))
 		end
 	end)
 	
@@ -2007,7 +2007,7 @@ local function ZWEHW_fake_script() -- ScreenGui.TextButton_5.LocalScript
 	local holdingRightClick = false
 	local originalSubject = camera.CameraSubject
 	
-	-- ====== 1?? KlikniÍcie przycisku (1cm + w≥πczenie trybu) ======
+	-- ====== 1?? Klikni√™cie przycisku (1cm + w¬≥¬πczenie trybu) ======
 	button.MouseButton1Click:Connect(function()
 		if not moved then
 	
@@ -2029,7 +2029,7 @@ local function ZWEHW_fake_script() -- ScreenGui.TextButton_5.LocalScript
 			tween:Play()
 	
 			moved = true
-			focusEnabled = true -- w≥πczamy tryb focus
+			focusEnabled = true -- w¬≥¬πczamy tryb focus
 		end
 	end)
 	
@@ -2047,7 +2047,7 @@ local function ZWEHW_fake_script() -- ScreenGui.TextButton_5.LocalScript
 		end
 	end)
 	
-	-- ====== 3?? Fokus na g≥owÍ gracza ======
+	-- ====== 3?? Fokus na g¬≥ow√™ gracza ======
 	RunService.RenderStepped:Connect(function()
 		if focusEnabled and holdingRightClick then
 	
@@ -2080,7 +2080,7 @@ local function LLAPRC_fake_script() -- ScreenGui.SliderBar_6.LocalScript
 		end
 	end)
 	
-	-- Kiedy puúcisz mysz
+	-- Kiedy pu¬úcisz mysz
 	UserInputService.InputEnded:Connect(function(input)
 		if input.UserInputType == Enum.UserInputType.MouseButton1 then
 			dragging = false
@@ -2095,13 +2095,13 @@ local function LLAPRC_fake_script() -- ScreenGui.SliderBar_6.LocalScript
 			local sliderPos = slider.AbsolutePosition.X
 			local sliderSize = slider.AbsoluteSize.X
 	
-			-- Oblicz procent (0ñ1)
+			-- Oblicz procent (0¬ñ1)
 			local percent = math.clamp((mousePos - sliderPos) / sliderSize, 0, 1)
 	
-			-- PrzesuÒ handle
+			-- Przesu√± handle
 			handle.Position = UDim2.new(percent, 0, 0.5, 0)
 	
-			print("WartoúÊ:", math.floor(percent * 100))
+			print("Warto¬ú√¶:", math.floor(percent * 100))
 		end
 	end)
 	
@@ -2125,7 +2125,7 @@ local function NNXC_fake_script() -- ScreenGui.TextButton_6.LocalScript
 	local holdingRightClick = false
 	local originalSubject = camera.CameraSubject
 	
-	-- ====== 1?? KlikniÍcie przycisku (1cm + w≥πczenie trybu) ======
+	-- ====== 1?? Klikni√™cie przycisku (1cm + w¬≥¬πczenie trybu) ======
 	button.MouseButton1Click:Connect(function()
 		if not moved then
 	
@@ -2147,7 +2147,7 @@ local function NNXC_fake_script() -- ScreenGui.TextButton_6.LocalScript
 			tween:Play()
 	
 			moved = true
-			focusEnabled = true -- w≥πczamy tryb focus
+			focusEnabled = true -- w¬≥¬πczamy tryb focus
 		end
 	end)
 	
@@ -2165,7 +2165,7 @@ local function NNXC_fake_script() -- ScreenGui.TextButton_6.LocalScript
 		end
 	end)
 	
-	-- ====== 3?? Fokus na g≥owÍ gracza ======
+	-- ====== 3?? Fokus na g¬≥ow√™ gracza ======
 	RunService.RenderStepped:Connect(function()
 		if focusEnabled and holdingRightClick then
 	
@@ -2198,7 +2198,7 @@ local function KXCAXGI_fake_script() -- ScreenGui.SliderBar_7.LocalScript
 		end
 	end)
 	
-	-- Kiedy puúcisz mysz
+	-- Kiedy pu¬úcisz mysz
 	UserInputService.InputEnded:Connect(function(input)
 		if input.UserInputType == Enum.UserInputType.MouseButton1 then
 			dragging = false
@@ -2213,13 +2213,13 @@ local function KXCAXGI_fake_script() -- ScreenGui.SliderBar_7.LocalScript
 			local sliderPos = slider.AbsolutePosition.X
 			local sliderSize = slider.AbsoluteSize.X
 	
-			-- Oblicz procent (0ñ1)
+			-- Oblicz procent (0¬ñ1)
 			local percent = math.clamp((mousePos - sliderPos) / sliderSize, 0, 1)
 	
-			-- PrzesuÒ handle
+			-- Przesu√± handle
 			handle.Position = UDim2.new(percent, 0, 0.5, 0)
 	
-			print("WartoúÊ:", math.floor(percent * 100))
+			print("Warto¬ú√¶:", math.floor(percent * 100))
 		end
 	end)
 	
@@ -2240,7 +2240,7 @@ local function WINSIXS_fake_script() -- ScreenGui.TextButton_7.LocalScript
 	
 	button.MouseButton1Click:Connect(function()
 		if not moved then
-			-- Tworzymy animacjÍ przesuniÍcia
+			-- Tworzymy animacj√™ przesuni√™cia
 			local tweenInfo = TweenInfo.new(
 				0.3, -- czas animacji w sekundach
 				Enum.EasingStyle.Quad,
@@ -2250,7 +2250,7 @@ local function WINSIXS_fake_script() -- ScreenGui.TextButton_7.LocalScript
 			local goal = {
 				Position = UDim2.new(
 					button.Position.X.Scale,
-					button.Position.X.Offset + 37, -- przesuniÍcie o ~1 cm
+					button.Position.X.Offset + 37, -- przesuni√™cie o ~1 cm
 					button.Position.Y.Scale,
 					button.Position.Y.Offset
 				)
@@ -2261,13 +2261,14 @@ local function WINSIXS_fake_script() -- ScreenGui.TextButton_7.LocalScript
 	
 			moved = true
 	
-			-- Po zakoÒczeniu animacji zwiÍkszamy prÍdkoúÊ
+			-- Po zako√±czeniu animacji zwi√™kszamy pr√™dko¬ú√¶
 			tween.Completed:Connect(function()
 				humanoid.WalkSpeed = humanoid.WalkSpeed + 40
-				print("Speed zwiÍkszony o 20! Aktualny speed:", humanoid.WalkSpeed)
+				print("Speed zwi√™kszony o 20! Aktualny speed:", humanoid.WalkSpeed)
 			end)
 		end
 	end)
 	
 end
 coroutine.wrap(WINSIXS_fake_script)()
+
