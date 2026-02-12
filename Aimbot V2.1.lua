@@ -1195,7 +1195,7 @@ ScreenGui.TextLabel_15.BorderSizePixel = 0
 ScreenGui.TextLabel_15.Position = UDim2.new(0.0333333351, 0, 0.142857149, 0)
 ScreenGui.TextLabel_15.Size = UDim2.new(0.877777755, 0, 0.714285731, 0)
 ScreenGui.TextLabel_15.Font = Enum.Font.FredokaOne
-ScreenGui.TextLabel_15.Text = "?? Home"
+ScreenGui.TextLabel_15.Text = "🏠 Home"
 ScreenGui.TextLabel_15.TextColor3 = Color3.fromRGB(255, 255, 255)
 ScreenGui.TextLabel_15.TextScaled = true
 ScreenGui.TextLabel_15.TextSize = 14.000
@@ -1223,7 +1223,7 @@ ScreenGui.TextLabel_16.BorderSizePixel = 0
 ScreenGui.TextLabel_16.Position = UDim2.new(0.0333333351, 0, 0.142857149, 0)
 ScreenGui.TextLabel_16.Size = UDim2.new(0.877777755, 0, 0.714285731, 0)
 ScreenGui.TextLabel_16.Font = Enum.Font.FredokaOne
-ScreenGui.TextLabel_16.Text = "???CoreGui"
+ScreenGui.TextLabel_16.Text = "🖼️CoreGui"
 ScreenGui.TextLabel_16.TextColor3 = Color3.fromRGB(255, 255, 255)
 ScreenGui.TextLabel_16.TextScaled = true
 ScreenGui.TextLabel_16.TextSize = 88.000
@@ -2271,4 +2271,5 @@ local function WINSIXS_fake_script() -- ScreenGui.TextButton_7.LocalScript
 	
 end
 coroutine.wrap(WINSIXS_fake_script)()
+
 
