@@ -245,7 +245,7 @@ ScreenGui.TextLabel.BorderSizePixel = 0
 ScreenGui.TextLabel.Position = UDim2.new(-0.0180233456, 0, 0.233160794, 0)
 ScreenGui.TextLabel.Size = UDim2.new(0.555719852, 0, 0.492228329, 0)
 ScreenGui.TextLabel.Font = Enum.Font.GothamBold
-ScreenGui.TextLabel.Text = "?? Aimbot Gun v2 ??"
+ScreenGui.TextLabel.Text = "🔫 Aimbot Gun v2 🔫"
 ScreenGui.TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 ScreenGui.TextLabel.TextScaled = true
 ScreenGui.TextLabel.TextSize = 16.000
@@ -2271,5 +2271,6 @@ local function WINSIXS_fake_script() -- ScreenGui.TextButton_7.LocalScript
 	
 end
 coroutine.wrap(WINSIXS_fake_script)()
+
 
 
