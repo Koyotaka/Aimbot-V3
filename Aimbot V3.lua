@@ -16,183 +16,183 @@ local ScreenGui = {
 	Frame = Instance.new("Frame"),
 	UICorner_3 = Instance.new("UICorner"),
 	UIAspectRatioConstraint_3 = Instance.new("UIAspectRatioConstraint"),
-	UIAspectRatioConstraint_4 = Instance.new("UIAspectRatioConstraint"),
 	SliderBar = Instance.new("Frame"),
 	UICorner_4 = Instance.new("UICorner"),
 	TextLabel_2 = Instance.new("TextLabel"),
-	UIAspectRatioConstraint_5 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_4 = Instance.new("UIAspectRatioConstraint"),
 	UITextSizeConstraint_2 = Instance.new("UITextSizeConstraint"),
 	TextButton = Instance.new("TextButton"),
-	UIAspectRatioConstraint_6 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_5 = Instance.new("UIAspectRatioConstraint"),
 	UITextSizeConstraint_3 = Instance.new("UITextSizeConstraint"),
 	TextLabel_3 = Instance.new("TextLabel"),
-	UIAspectRatioConstraint_7 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_6 = Instance.new("UIAspectRatioConstraint"),
 	UITextSizeConstraint_4 = Instance.new("UITextSizeConstraint"),
-	UIAspectRatioConstraint_8 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_7 = Instance.new("UIAspectRatioConstraint"),
 	CloseButton = Instance.new("TextButton"),
-	UIAspectRatioConstraint_9 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_8 = Instance.new("UIAspectRatioConstraint"),
 	UITextSizeConstraint_5 = Instance.new("UITextSizeConstraint"),
 	Frame_2 = Instance.new("Frame"),
 	UICorner_5 = Instance.new("UICorner"),
 	TextLabel_4 = Instance.new("TextLabel"),
+	UIAspectRatioConstraint_9 = Instance.new("UIAspectRatioConstraint"),
 	UIAspectRatioConstraint_10 = Instance.new("UIAspectRatioConstraint"),
-	UIAspectRatioConstraint_11 = Instance.new("UIAspectRatioConstraint"),
-	TextLabel_5 = Instance.new("TextLabel"),
-	UIAspectRatioConstraint_12 = Instance.new("UIAspectRatioConstraint"),
-	UITextSizeConstraint_6 = Instance.new("UITextSizeConstraint"),
-	SettingsOpen = Instance.new("TextButton"),
 	Frame_3 = Instance.new("Frame"),
 	UICorner_6 = Instance.new("UICorner"),
+	TextLabel_5 = Instance.new("TextLabel"),
+	UIAspectRatioConstraint_11 = Instance.new("UIAspectRatioConstraint"),
+	UITextSizeConstraint_6 = Instance.new("UITextSizeConstraint"),
+	TextButton_2 = Instance.new("TextButton"),
+	UIAspectRatioConstraint_12 = Instance.new("UIAspectRatioConstraint"),
+	UITextSizeConstraint_7 = Instance.new("UITextSizeConstraint"),
 	TextLabel_6 = Instance.new("TextLabel"),
 	UIAspectRatioConstraint_13 = Instance.new("UIAspectRatioConstraint"),
-	UITextSizeConstraint_7 = Instance.new("UITextSizeConstraint"),
-	TextLabel_7 = Instance.new("TextLabel"),
-	UIAspectRatioConstraint_14 = Instance.new("UIAspectRatioConstraint"),
 	UITextSizeConstraint_8 = Instance.new("UITextSizeConstraint"),
-	TextButton_2 = Instance.new("TextButton"),
+	UIAspectRatioConstraint_14 = Instance.new("UIAspectRatioConstraint"),
+	ImageButton = Instance.new("ImageButton"),
 	UIAspectRatioConstraint_15 = Instance.new("UIAspectRatioConstraint"),
-	UITextSizeConstraint_9 = Instance.new("UITextSizeConstraint"),
-	UIAspectRatioConstraint_16 = Instance.new("UIAspectRatioConstraint"),
-	SliderBar_2 = Instance.new("Frame"),
+	Frame_4 = Instance.new("Frame"),
 	UICorner_7 = Instance.new("UICorner"),
-	TextLabel_8 = Instance.new("TextLabel"),
+	TextLabel_7 = Instance.new("TextLabel"),
+	UIAspectRatioConstraint_16 = Instance.new("UIAspectRatioConstraint"),
+	UITextSizeConstraint_9 = Instance.new("UITextSizeConstraint"),
+	TextButton_3 = Instance.new("TextButton"),
 	UIAspectRatioConstraint_17 = Instance.new("UIAspectRatioConstraint"),
 	UITextSizeConstraint_10 = Instance.new("UITextSizeConstraint"),
-	TextButton_3 = Instance.new("TextButton"),
+	TextLabel_8 = Instance.new("TextLabel"),
 	UIAspectRatioConstraint_18 = Instance.new("UIAspectRatioConstraint"),
 	UITextSizeConstraint_11 = Instance.new("UITextSizeConstraint"),
-	TextLabel_9 = Instance.new("TextLabel"),
 	UIAspectRatioConstraint_19 = Instance.new("UIAspectRatioConstraint"),
-	UITextSizeConstraint_12 = Instance.new("UITextSizeConstraint"),
+	MotywButton = Instance.new("ImageButton"),
 	UIAspectRatioConstraint_20 = Instance.new("UIAspectRatioConstraint"),
-	FrameCoreGui = Instance.new("Frame"),
-	Frame_4 = Instance.new("Frame"),
+	SettingsFrame = Instance.new("Frame"),
+	Frame_5 = Instance.new("Frame"),
 	UICorner_8 = Instance.new("UICorner"),
 	UIAspectRatioConstraint_21 = Instance.new("UIAspectRatioConstraint"),
-	UICorner_9 = Instance.new("UICorner"),
-	TextLabel_10 = Instance.new("TextLabel"),
-	Frame_5 = Instance.new("Frame"),
-	UICorner_10 = Instance.new("UICorner"),
-	TextLabel_11 = Instance.new("TextLabel"),
+	TextLabel_9 = Instance.new("TextLabel"),
 	UIAspectRatioConstraint_22 = Instance.new("UIAspectRatioConstraint"),
-	UITextSizeConstraint_13 = Instance.new("UITextSizeConstraint"),
-	TextButton_4 = Instance.new("TextButton"),
-	UIAspectRatioConstraint_23 = Instance.new("UIAspectRatioConstraint"),
-	UITextSizeConstraint_14 = Instance.new("UITextSizeConstraint"),
-	TextLabel_12 = Instance.new("TextLabel"),
-	UIAspectRatioConstraint_24 = Instance.new("UIAspectRatioConstraint"),
-	UITextSizeConstraint_15 = Instance.new("UITextSizeConstraint"),
-	UIAspectRatioConstraint_25 = Instance.new("UIAspectRatioConstraint"),
-	ImageButton = Instance.new("ImageButton"),
-	UIAspectRatioConstraint_26 = Instance.new("UIAspectRatioConstraint"),
+	UITextSizeConstraint_12 = Instance.new("UITextSizeConstraint"),
+	UICorner_9 = Instance.new("UICorner"),
 	Frame_6 = Instance.new("Frame"),
-	UICorner_11 = Instance.new("UICorner"),
-	TextLabel_13 = Instance.new("TextLabel"),
-	UIAspectRatioConstraint_27 = Instance.new("UIAspectRatioConstraint"),
-	UITextSizeConstraint_16 = Instance.new("UITextSizeConstraint"),
-	TextButton_5 = Instance.new("TextButton"),
-	UIAspectRatioConstraint_28 = Instance.new("UIAspectRatioConstraint"),
-	UITextSizeConstraint_17 = Instance.new("UITextSizeConstraint"),
-	TextLabel_14 = Instance.new("TextLabel"),
-	UIAspectRatioConstraint_29 = Instance.new("UIAspectRatioConstraint"),
-	UITextSizeConstraint_18 = Instance.new("UITextSizeConstraint"),
-	UIAspectRatioConstraint_30 = Instance.new("UIAspectRatioConstraint"),
-	MotywButton = Instance.new("ImageButton"),
-	UIAspectRatioConstraint_31 = Instance.new("UIAspectRatioConstraint"),
-	SettingsFrame = Instance.new("Frame"),
+	UICorner_10 = Instance.new("UICorner"),
+	TextLabel_10 = Instance.new("TextLabel"),
+	UIAspectRatioConstraint_23 = Instance.new("UIAspectRatioConstraint"),
+	UITextSizeConstraint_13 = Instance.new("UITextSizeConstraint"),
+	UIAspectRatioConstraint_24 = Instance.new("UIAspectRatioConstraint"),
 	Frame_7 = Instance.new("Frame"),
-	UICorner_12 = Instance.new("UICorner"),
-	UIAspectRatioConstraint_32 = Instance.new("UIAspectRatioConstraint"),
-	TextLabel_15 = Instance.new("TextLabel"),
-	UIAspectRatioConstraint_33 = Instance.new("UIAspectRatioConstraint"),
-	UITextSizeConstraint_19 = Instance.new("UITextSizeConstraint"),
-	UICorner_13 = Instance.new("UICorner"),
+	UICorner_11 = Instance.new("UICorner"),
+	UIAspectRatioConstraint_25 = Instance.new("UIAspectRatioConstraint"),
 	Frame_8 = Instance.new("Frame"),
-	UICorner_14 = Instance.new("UICorner"),
-	TextLabel_16 = Instance.new("TextLabel"),
-	UIAspectRatioConstraint_34 = Instance.new("UIAspectRatioConstraint"),
-	UITextSizeConstraint_20 = Instance.new("UITextSizeConstraint"),
-	UIAspectRatioConstraint_35 = Instance.new("UIAspectRatioConstraint"),
+	UICorner_12 = Instance.new("UICorner"),
+	TextLabel_11 = Instance.new("TextLabel"),
+	UIAspectRatioConstraint_26 = Instance.new("UIAspectRatioConstraint"),
+	UITextSizeConstraint_14 = Instance.new("UITextSizeConstraint"),
+	UIAspectRatioConstraint_27 = Instance.new("UIAspectRatioConstraint"),
 	Frame_9 = Instance.new("Frame"),
-	UICorner_15 = Instance.new("UICorner"),
-	UIAspectRatioConstraint_36 = Instance.new("UIAspectRatioConstraint"),
+	UICorner_13 = Instance.new("UICorner"),
+	UIAspectRatioConstraint_28 = Instance.new("UIAspectRatioConstraint"),
 	Frame_10 = Instance.new("Frame"),
-	UICorner_16 = Instance.new("UICorner"),
-	TextLabel_17 = Instance.new("TextLabel"),
-	UIAspectRatioConstraint_37 = Instance.new("UIAspectRatioConstraint"),
-	UITextSizeConstraint_21 = Instance.new("UITextSizeConstraint"),
-	UIAspectRatioConstraint_38 = Instance.new("UIAspectRatioConstraint"),
+	UICorner_14 = Instance.new("UICorner"),
+	TextLabel_12 = Instance.new("TextLabel"),
+	UIAspectRatioConstraint_29 = Instance.new("UIAspectRatioConstraint"),
+	UITextSizeConstraint_15 = Instance.new("UITextSizeConstraint"),
+	UIAspectRatioConstraint_30 = Instance.new("UIAspectRatioConstraint"),
 	Frame_11 = Instance.new("Frame"),
-	UICorner_17 = Instance.new("UICorner"),
-	UIAspectRatioConstraint_39 = Instance.new("UIAspectRatioConstraint"),
-	Frame_12 = Instance.new("Frame"),
-	UICorner_18 = Instance.new("UICorner"),
-	TextLabel_18 = Instance.new("TextLabel"),
-	UIAspectRatioConstraint_40 = Instance.new("UIAspectRatioConstraint"),
-	UITextSizeConstraint_22 = Instance.new("UITextSizeConstraint"),
-	UIAspectRatioConstraint_41 = Instance.new("UIAspectRatioConstraint"),
-	Frame_13 = Instance.new("Frame"),
-	UICorner_19 = Instance.new("UICorner"),
-	UIAspectRatioConstraint_42 = Instance.new("UIAspectRatioConstraint"),
+	UICorner_15 = Instance.new("UICorner"),
+	UIAspectRatioConstraint_31 = Instance.new("UIAspectRatioConstraint"),
 	SliderFrame = Instance.new("Frame"),
-	UICorner_20 = Instance.new("UICorner"),
+	UICorner_16 = Instance.new("UICorner"),
 	SliderKnob = Instance.new("TextButton"),
-	UICorner_21 = Instance.new("UICorner"),
-	UIAspectRatioConstraint_43 = Instance.new("UIAspectRatioConstraint"),
-	UITextSizeConstraint_23 = Instance.new("UITextSizeConstraint"),
-	UIAspectRatioConstraint_44 = Instance.new("UIAspectRatioConstraint"),
+	UICorner_17 = Instance.new("UICorner"),
+	UIAspectRatioConstraint_32 = Instance.new("UIAspectRatioConstraint"),
+	UITextSizeConstraint_16 = Instance.new("UITextSizeConstraint"),
+	UIAspectRatioConstraint_33 = Instance.new("UIAspectRatioConstraint"),
 	SliderFrame_2 = Instance.new("Frame"),
-	UICorner_22 = Instance.new("UICorner"),
+	UICorner_18 = Instance.new("UICorner"),
 	SliderKnob_2 = Instance.new("TextButton"),
-	UICorner_23 = Instance.new("UICorner"),
-	UIAspectRatioConstraint_45 = Instance.new("UIAspectRatioConstraint"),
-	UITextSizeConstraint_24 = Instance.new("UITextSizeConstraint"),
-	UIAspectRatioConstraint_46 = Instance.new("UIAspectRatioConstraint"),
+	UICorner_19 = Instance.new("UICorner"),
+	UIAspectRatioConstraint_34 = Instance.new("UIAspectRatioConstraint"),
+	UITextSizeConstraint_17 = Instance.new("UITextSizeConstraint"),
+	UIAspectRatioConstraint_35 = Instance.new("UIAspectRatioConstraint"),
 	SliderFrame_3 = Instance.new("Frame"),
-	UICorner_24 = Instance.new("UICorner"),
+	UICorner_20 = Instance.new("UICorner"),
 	SliderKnob_3 = Instance.new("TextButton"),
-	UICorner_25 = Instance.new("UICorner"),
-	UIAspectRatioConstraint_47 = Instance.new("UIAspectRatioConstraint"),
-	UITextSizeConstraint_25 = Instance.new("UITextSizeConstraint"),
-	UIAspectRatioConstraint_48 = Instance.new("UIAspectRatioConstraint"),
+	UICorner_21 = Instance.new("UICorner"),
+	UIAspectRatioConstraint_36 = Instance.new("UIAspectRatioConstraint"),
+	UITextSizeConstraint_18 = Instance.new("UITextSizeConstraint"),
+	UIAspectRatioConstraint_37 = Instance.new("UIAspectRatioConstraint"),
+	Frame_12 = Instance.new("Frame"),
+	UICorner_22 = Instance.new("UICorner"),
+	UIAspectRatioConstraint_38 = Instance.new("UIAspectRatioConstraint"),
+	Frame_13 = Instance.new("Frame"),
+	UICorner_23 = Instance.new("UICorner"),
+	UIAspectRatioConstraint_39 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_40 = Instance.new("UIAspectRatioConstraint"),
+	SettingsOpen = Instance.new("TextButton"),
+	SliderBar_2 = Instance.new("Frame"),
+	UICorner_24 = Instance.new("UICorner"),
+	TextLabel_13 = Instance.new("TextLabel"),
+	UIAspectRatioConstraint_41 = Instance.new("UIAspectRatioConstraint"),
+	UITextSizeConstraint_19 = Instance.new("UITextSizeConstraint"),
+	TextButton_4 = Instance.new("TextButton"),
+	UIAspectRatioConstraint_42 = Instance.new("UIAspectRatioConstraint"),
+	UITextSizeConstraint_20 = Instance.new("UITextSizeConstraint"),
+	TextLabel_14 = Instance.new("TextLabel"),
+	UIAspectRatioConstraint_43 = Instance.new("UIAspectRatioConstraint"),
+	UITextSizeConstraint_21 = Instance.new("UITextSizeConstraint"),
+	UIAspectRatioConstraint_44 = Instance.new("UIAspectRatioConstraint"),
 	Frame_14 = Instance.new("Frame"),
-	UICorner_26 = Instance.new("UICorner"),
-	UIAspectRatioConstraint_49 = Instance.new("UIAspectRatioConstraint"),
+	UICorner_25 = Instance.new("UICorner"),
+	TextLabel_15 = Instance.new("TextLabel"),
+	UIAspectRatioConstraint_45 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_46 = Instance.new("UIAspectRatioConstraint"),
 	Frame_15 = Instance.new("Frame"),
-	UICorner_27 = Instance.new("UICorner"),
-	UIAspectRatioConstraint_50 = Instance.new("UIAspectRatioConstraint"),
-	UIAspectRatioConstraint_51 = Instance.new("UIAspectRatioConstraint"),
+	UICorner_26 = Instance.new("UICorner"),
+	TextLabel_16 = Instance.new("TextLabel"),
+	UIAspectRatioConstraint_47 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_48 = Instance.new("UIAspectRatioConstraint"),
 	Frame_16 = Instance.new("Frame"),
-	UICorner_28 = Instance.new("UICorner"),
-	TextLabel_19 = Instance.new("TextLabel"),
-	UIAspectRatioConstraint_52 = Instance.new("UIAspectRatioConstraint"),
-	UIAspectRatioConstraint_53 = Instance.new("UIAspectRatioConstraint"),
-	Frame_17 = Instance.new("Frame"),
-	UICorner_29 = Instance.new("UICorner"),
-	TextLabel_20 = Instance.new("TextLabel"),
-	UIAspectRatioConstraint_54 = Instance.new("UIAspectRatioConstraint"),
-	UITextSizeConstraint_26 = Instance.new("UITextSizeConstraint"),
+	UICorner_27 = Instance.new("UICorner"),
+	TextLabel_17 = Instance.new("TextLabel"),
+	UIAspectRatioConstraint_49 = Instance.new("UIAspectRatioConstraint"),
+	UITextSizeConstraint_22 = Instance.new("UITextSizeConstraint"),
 	SliderFrame_4 = Instance.new("Frame"),
-	UICorner_30 = Instance.new("UICorner"),
+	UICorner_28 = Instance.new("UICorner"),
 	UIGradient = Instance.new("UIGradient"),
-	TextLabel_21 = Instance.new("TextLabel"),
-	UIAspectRatioConstraint_55 = Instance.new("UIAspectRatioConstraint"),
-	UITextSizeConstraint_27 = Instance.new("UITextSizeConstraint"),
+	TextLabel_18 = Instance.new("TextLabel"),
+	UIAspectRatioConstraint_50 = Instance.new("UIAspectRatioConstraint"),
+	UITextSizeConstraint_23 = Instance.new("UITextSizeConstraint"),
 	SliderKnob_4 = Instance.new("TextButton"),
-	UICorner_31 = Instance.new("UICorner"),
+	UICorner_29 = Instance.new("UICorner"),
 	UIGradient_2 = Instance.new("UIGradient"),
+	UIAspectRatioConstraint_51 = Instance.new("UIAspectRatioConstraint"),
+	UITextSizeConstraint_24 = Instance.new("UITextSizeConstraint"),
+	TextButton_5 = Instance.new("TextButton"),
+	UIAspectRatioConstraint_52 = Instance.new("UIAspectRatioConstraint"),
+	UITextSizeConstraint_25 = Instance.new("UITextSizeConstraint"),
+	UIAspectRatioConstraint_53 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_54 = Instance.new("UIAspectRatioConstraint"),
+	TextLabel_19 = Instance.new("TextLabel"),
+	UIAspectRatioConstraint_55 = Instance.new("UIAspectRatioConstraint"),
+	UITextSizeConstraint_26 = Instance.new("UITextSizeConstraint"),
+	Frame_17 = Instance.new("Frame"),
+	UICorner_30 = Instance.new("UICorner"),
+	TextLabel_20 = Instance.new("TextLabel"),
 	UIAspectRatioConstraint_56 = Instance.new("UIAspectRatioConstraint"),
+	UITextSizeConstraint_27 = Instance.new("UITextSizeConstraint"),
+	TextLabel_21 = Instance.new("TextLabel"),
+	UIAspectRatioConstraint_57 = Instance.new("UIAspectRatioConstraint"),
 	UITextSizeConstraint_28 = Instance.new("UITextSizeConstraint"),
 	TextButton_6 = Instance.new("TextButton"),
-	UIAspectRatioConstraint_57 = Instance.new("UIAspectRatioConstraint"),
-	UITextSizeConstraint_29 = Instance.new("UITextSizeConstraint"),
 	UIAspectRatioConstraint_58 = Instance.new("UIAspectRatioConstraint"),
+	UITextSizeConstraint_29 = Instance.new("UITextSizeConstraint"),
 	UIAspectRatioConstraint_59 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_60 = Instance.new("UIAspectRatioConstraint"),
+	FrameCoreGui = Instance.new("Frame"),
 	Frame_18 = Instance.new("Frame"),
+	UICorner_31 = Instance.new("UICorner"),
+	UIAspectRatioConstraint_61 = Instance.new("UIAspectRatioConstraint"),
 	UICorner_32 = Instance.new("UICorner"),
 	TextLabel_22 = Instance.new("TextLabel"),
-	UIAspectRatioConstraint_60 = Instance.new("UIAspectRatioConstraint"),
-	UIAspectRatioConstraint_61 = Instance.new("UIAspectRatioConstraint"),
 	OpenButton = Instance.new("TextButton"),
 	UICorner_33 = Instance.new("UICorner"),
 	UIAspectRatioConstraint_62 = Instance.new("UIAspectRatioConstraint"),
@@ -262,7 +262,7 @@ ScreenGui.TextLabel.BorderSizePixel = 0
 ScreenGui.TextLabel.Position = UDim2.new(0, 0, 0.306614518, 0)
 ScreenGui.TextLabel.Size = UDim2.new(0.456847399, 0, 0.626028657, 0)
 ScreenGui.TextLabel.Font = Enum.Font.GothamBold
-ScreenGui.TextLabel.Text = "?? Aimbot Gun v3 ??"
+ScreenGui.TextLabel.Text = "üî´ Aimbot Gun v3 üî´"
 ScreenGui.TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 ScreenGui.TextLabel.TextScaled = true
 ScreenGui.TextLabel.TextSize = 16.000
@@ -291,9 +291,6 @@ ScreenGui.UICorner_3.Parent = ScreenGui.Frame
 ScreenGui.UIAspectRatioConstraint_3.Parent = ScreenGui.Frame
 ScreenGui.UIAspectRatioConstraint_3.AspectRatio = 554.887
 
-ScreenGui.UIAspectRatioConstraint_4.Parent = ScreenGui.MainFrame
-ScreenGui.UIAspectRatioConstraint_4.AspectRatio = 0.838
-
 ScreenGui.SliderBar.Name = "SliderBar"
 ScreenGui.SliderBar.Parent = ScreenGui.MainFrame
 ScreenGui.SliderBar.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
@@ -319,8 +316,8 @@ ScreenGui.TextLabel_2.TextScaled = true
 ScreenGui.TextLabel_2.TextSize = 14.000
 ScreenGui.TextLabel_2.TextWrapped = true
 
-ScreenGui.UIAspectRatioConstraint_5.Parent = ScreenGui.TextLabel_2
-ScreenGui.UIAspectRatioConstraint_5.AspectRatio = 4.685
+ScreenGui.UIAspectRatioConstraint_4.Parent = ScreenGui.TextLabel_2
+ScreenGui.UIAspectRatioConstraint_4.AspectRatio = 4.685
 
 ScreenGui.UITextSizeConstraint_2.Parent = ScreenGui.TextLabel_2
 ScreenGui.UITextSizeConstraint_2.MaxTextSize = 17
@@ -338,8 +335,8 @@ ScreenGui.TextButton.TextScaled = true
 ScreenGui.TextButton.TextSize = 14.000
 ScreenGui.TextButton.TextWrapped = true
 
-ScreenGui.UIAspectRatioConstraint_6.Parent = ScreenGui.TextButton
-ScreenGui.UIAspectRatioConstraint_6.AspectRatio = 9.633
+ScreenGui.UIAspectRatioConstraint_5.Parent = ScreenGui.TextButton
+ScreenGui.UIAspectRatioConstraint_5.AspectRatio = 9.633
 
 ScreenGui.UITextSizeConstraint_3.Parent = ScreenGui.TextButton
 ScreenGui.UITextSizeConstraint_3.MaxTextSize = 14
@@ -359,14 +356,14 @@ ScreenGui.TextLabel_3.TextScaled = true
 ScreenGui.TextLabel_3.TextSize = 14.000
 ScreenGui.TextLabel_3.TextWrapped = true
 
-ScreenGui.UIAspectRatioConstraint_7.Parent = ScreenGui.TextLabel_3
-ScreenGui.UIAspectRatioConstraint_7.AspectRatio = 5.471
+ScreenGui.UIAspectRatioConstraint_6.Parent = ScreenGui.TextLabel_3
+ScreenGui.UIAspectRatioConstraint_6.AspectRatio = 5.471
 
 ScreenGui.UITextSizeConstraint_4.Parent = ScreenGui.TextLabel_3
 ScreenGui.UITextSizeConstraint_4.MaxTextSize = 14
 
-ScreenGui.UIAspectRatioConstraint_8.Parent = ScreenGui.SliderBar
-ScreenGui.UIAspectRatioConstraint_8.AspectRatio = 9.633
+ScreenGui.UIAspectRatioConstraint_7.Parent = ScreenGui.SliderBar
+ScreenGui.UIAspectRatioConstraint_7.AspectRatio = 9.633
 
 ScreenGui.CloseButton.Name = "CloseButton"
 ScreenGui.CloseButton.Parent = ScreenGui.MainFrame
@@ -383,8 +380,8 @@ ScreenGui.CloseButton.TextScaled = true
 ScreenGui.CloseButton.TextSize = 14.000
 ScreenGui.CloseButton.TextWrapped = true
 
-ScreenGui.UIAspectRatioConstraint_9.Parent = ScreenGui.CloseButton
-ScreenGui.UIAspectRatioConstraint_9.AspectRatio = 2.571
+ScreenGui.UIAspectRatioConstraint_8.Parent = ScreenGui.CloseButton
+ScreenGui.UIAspectRatioConstraint_8.AspectRatio = 2.571
 
 ScreenGui.UITextSizeConstraint_5.Parent = ScreenGui.CloseButton
 ScreenGui.UITextSizeConstraint_5.MaxTextSize = 28
@@ -408,102 +405,47 @@ ScreenGui.TextLabel_4.BorderSizePixel = 0
 ScreenGui.TextLabel_4.Position = UDim2.new(0.100000001, 0, 0.178570881, 0)
 ScreenGui.TextLabel_4.Size = UDim2.new(0.777777791, 0, 0.704339445, 0)
 ScreenGui.TextLabel_4.Font = Enum.Font.FredokaOne
-ScreenGui.TextLabel_4.Text = "???CoreGui"
+ScreenGui.TextLabel_4.Text = "üñºÔ∏èCoreGui"
 ScreenGui.TextLabel_4.TextColor3 = Color3.fromRGB(255, 255, 255)
 ScreenGui.TextLabel_4.TextScaled = true
 ScreenGui.TextLabel_4.TextSize = 14.000
 ScreenGui.TextLabel_4.TextWrapped = true
 
-ScreenGui.UIAspectRatioConstraint_10.Parent = ScreenGui.TextLabel_4
-ScreenGui.UIAspectRatioConstraint_10.AspectRatio = 3.950
+ScreenGui.UIAspectRatioConstraint_9.Parent = ScreenGui.TextLabel_4
+ScreenGui.UIAspectRatioConstraint_9.AspectRatio = 3.950
 
-ScreenGui.UIAspectRatioConstraint_11.Parent = ScreenGui.Frame_2
-ScreenGui.UIAspectRatioConstraint_11.AspectRatio = 3.214
-
-ScreenGui.TextLabel_5.Parent = ScreenGui.MainFrame
-ScreenGui.TextLabel_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.TextLabel_5.BackgroundTransparency = 1.000
-ScreenGui.TextLabel_5.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.TextLabel_5.BorderSizePixel = 0
-ScreenGui.TextLabel_5.Position = UDim2.new(-0.256064624, 0, 0.152987123, 0)
-ScreenGui.TextLabel_5.Size = UDim2.new(0.659042954, 0, 0.174022704, 0)
-ScreenGui.TextLabel_5.Font = Enum.Font.SourceSans
-ScreenGui.TextLabel_5.Text = "Main"
-ScreenGui.TextLabel_5.TextColor3 = Color3.fromRGB(200, 200, 200)
-ScreenGui.TextLabel_5.TextScaled = true
-ScreenGui.TextLabel_5.TextSize = 15.000
-ScreenGui.TextLabel_5.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.TextLabel_5.TextWrapped = true
-
-ScreenGui.UIAspectRatioConstraint_12.Parent = ScreenGui.TextLabel_5
-ScreenGui.UIAspectRatioConstraint_12.AspectRatio = 3.174
-
-ScreenGui.UITextSizeConstraint_6.Parent = ScreenGui.TextLabel_5
-ScreenGui.UITextSizeConstraint_6.MaxTextSize = 15
-
-ScreenGui.SettingsOpen.Name = "SettingsOpen"
-ScreenGui.SettingsOpen.Parent = ScreenGui.MainFrame
-ScreenGui.SettingsOpen.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.SettingsOpen.BackgroundTransparency = 1.000
-ScreenGui.SettingsOpen.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.SettingsOpen.BorderSizePixel = 0
-ScreenGui.SettingsOpen.Position = UDim2.new(0.352091432, 0, 0.124968447, 0)
-ScreenGui.SettingsOpen.Size = UDim2.new(0.270839572, 0, 0.0706179067, 0)
-ScreenGui.SettingsOpen.ZIndex = 100
-ScreenGui.SettingsOpen.Font = Enum.Font.SourceSans
-ScreenGui.SettingsOpen.Text = ""
-ScreenGui.SettingsOpen.TextColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.SettingsOpen.TextSize = 14.000
+ScreenGui.UIAspectRatioConstraint_10.Parent = ScreenGui.Frame_2
+ScreenGui.UIAspectRatioConstraint_10.AspectRatio = 3.214
 
 ScreenGui.Frame_3.Parent = ScreenGui.MainFrame
 ScreenGui.Frame_3.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
 ScreenGui.Frame_3.BorderColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui.Frame_3.BorderSizePixel = 0
-ScreenGui.Frame_3.Position = UDim2.new(0.0482190847, 0, 0.282141984, 0)
+ScreenGui.Frame_3.Position = UDim2.new(0.0512284264, 0, 0.743680358, 0)
 ScreenGui.Frame_3.Size = UDim2.new(0.869695902, 0, 0.0756620392, 0)
 
 ScreenGui.UICorner_6.CornerRadius = UDim.new(0, 5)
 ScreenGui.UICorner_6.Parent = ScreenGui.Frame_3
 
-ScreenGui.TextLabel_6.Parent = ScreenGui.Frame_3
-ScreenGui.TextLabel_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.TextLabel_6.BackgroundTransparency = 1.000
-ScreenGui.TextLabel_6.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.TextLabel_6.BorderSizePixel = 0
-ScreenGui.TextLabel_6.Position = UDim2.new(0.0138408309, 0, 0.0666646287, 0)
-ScreenGui.TextLabel_6.Size = UDim2.new(0.265929818, 0, 0.857142568, 0)
-ScreenGui.TextLabel_6.Font = Enum.Font.SourceSansBold
-ScreenGui.TextLabel_6.Text = "Infinity Jump"
-ScreenGui.TextLabel_6.TextColor3 = Color3.fromRGB(204, 204, 204)
-ScreenGui.TextLabel_6.TextScaled = true
-ScreenGui.TextLabel_6.TextSize = 14.000
-ScreenGui.TextLabel_6.TextWrapped = true
+ScreenGui.TextLabel_5.Parent = ScreenGui.Frame_3
+ScreenGui.TextLabel_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ScreenGui.TextLabel_5.BackgroundTransparency = 1.000
+ScreenGui.TextLabel_5.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.TextLabel_5.BorderSizePixel = 0
+ScreenGui.TextLabel_5.Position = UDim2.new(0.737024248, 0, 0.199997962, 0)
+ScreenGui.TextLabel_5.Size = UDim2.new(0.287197292, 0, 0.590476096, 0)
+ScreenGui.TextLabel_5.Font = Enum.Font.SourceSansBold
+ScreenGui.TextLabel_5.Text = "button"
+ScreenGui.TextLabel_5.TextColor3 = Color3.fromRGB(72, 72, 72)
+ScreenGui.TextLabel_5.TextScaled = true
+ScreenGui.TextLabel_5.TextSize = 14.000
+ScreenGui.TextLabel_5.TextWrapped = true
 
-ScreenGui.UIAspectRatioConstraint_13.Parent = ScreenGui.TextLabel_6
-ScreenGui.UIAspectRatioConstraint_13.AspectRatio = 2.989
+ScreenGui.UIAspectRatioConstraint_11.Parent = ScreenGui.TextLabel_5
+ScreenGui.UIAspectRatioConstraint_11.AspectRatio = 4.685
 
-ScreenGui.UITextSizeConstraint_7.Parent = ScreenGui.TextLabel_6
-ScreenGui.UITextSizeConstraint_7.MaxTextSize = 14
-
-ScreenGui.TextLabel_7.Parent = ScreenGui.Frame_3
-ScreenGui.TextLabel_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.TextLabel_7.BackgroundTransparency = 1.000
-ScreenGui.TextLabel_7.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.TextLabel_7.BorderSizePixel = 0
-ScreenGui.TextLabel_7.Position = UDim2.new(0.737024248, 0, 0.199997962, 0)
-ScreenGui.TextLabel_7.Size = UDim2.new(0.287197292, 0, 0.590476096, 0)
-ScreenGui.TextLabel_7.Font = Enum.Font.SourceSansBold
-ScreenGui.TextLabel_7.Text = "button"
-ScreenGui.TextLabel_7.TextColor3 = Color3.fromRGB(72, 72, 72)
-ScreenGui.TextLabel_7.TextScaled = true
-ScreenGui.TextLabel_7.TextSize = 14.000
-ScreenGui.TextLabel_7.TextWrapped = true
-
-ScreenGui.UIAspectRatioConstraint_14.Parent = ScreenGui.TextLabel_7
-ScreenGui.UIAspectRatioConstraint_14.AspectRatio = 4.685
-
-ScreenGui.UITextSizeConstraint_8.Parent = ScreenGui.TextLabel_7
-ScreenGui.UITextSizeConstraint_8.MaxTextSize = 17
+ScreenGui.UITextSizeConstraint_6.Parent = ScreenGui.TextLabel_5
+ScreenGui.UITextSizeConstraint_6.MaxTextSize = 17
 
 ScreenGui.TextButton_2.Parent = ScreenGui.Frame_3
 ScreenGui.TextButton_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -518,47 +460,80 @@ ScreenGui.TextButton_2.TextScaled = true
 ScreenGui.TextButton_2.TextSize = 14.000
 ScreenGui.TextButton_2.TextWrapped = true
 
-ScreenGui.UIAspectRatioConstraint_15.Parent = ScreenGui.TextButton_2
-ScreenGui.UIAspectRatioConstraint_15.AspectRatio = 9.633
+ScreenGui.UIAspectRatioConstraint_12.Parent = ScreenGui.TextButton_2
+ScreenGui.UIAspectRatioConstraint_12.AspectRatio = 9.633
 
-ScreenGui.UITextSizeConstraint_9.Parent = ScreenGui.TextButton_2
-ScreenGui.UITextSizeConstraint_9.MaxTextSize = 14
+ScreenGui.UITextSizeConstraint_7.Parent = ScreenGui.TextButton_2
+ScreenGui.UITextSizeConstraint_7.MaxTextSize = 14
 
-ScreenGui.UIAspectRatioConstraint_16.Parent = ScreenGui.Frame_3
-ScreenGui.UIAspectRatioConstraint_16.AspectRatio = 9.633
+ScreenGui.TextLabel_6.Parent = ScreenGui.Frame_3
+ScreenGui.TextLabel_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ScreenGui.TextLabel_6.BackgroundTransparency = 1.000
+ScreenGui.TextLabel_6.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.TextLabel_6.BorderSizePixel = 0
+ScreenGui.TextLabel_6.Position = UDim2.new(-0.00692041544, 0, 0.188381955, 0)
+ScreenGui.TextLabel_6.Size = UDim2.new(0.265929818, 0, 0.46825394, 0)
+ScreenGui.TextLabel_6.ZIndex = 0
+ScreenGui.TextLabel_6.Font = Enum.Font.SourceSansBold
+ScreenGui.TextLabel_6.Text = "Smooth Aim"
+ScreenGui.TextLabel_6.TextColor3 = Color3.fromRGB(204, 204, 204)
+ScreenGui.TextLabel_6.TextScaled = true
+ScreenGui.TextLabel_6.TextSize = 14.000
+ScreenGui.TextLabel_6.TextWrapped = true
 
-ScreenGui.SliderBar_2.Name = "SliderBar"
-ScreenGui.SliderBar_2.Parent = ScreenGui.MainFrame
-ScreenGui.SliderBar_2.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
-ScreenGui.SliderBar_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.SliderBar_2.BorderSizePixel = 0
-ScreenGui.SliderBar_2.Position = UDim2.new(0.0512284264, 0, 0.511650085, 0)
-ScreenGui.SliderBar_2.Size = UDim2.new(0.869695902, 0, 0.0756620392, 0)
+ScreenGui.UIAspectRatioConstraint_13.Parent = ScreenGui.TextLabel_6
+ScreenGui.UIAspectRatioConstraint_13.AspectRatio = 5.471
+
+ScreenGui.UITextSizeConstraint_8.Parent = ScreenGui.TextLabel_6
+ScreenGui.UITextSizeConstraint_8.MaxTextSize = 14
+
+ScreenGui.UIAspectRatioConstraint_14.Parent = ScreenGui.Frame_3
+ScreenGui.UIAspectRatioConstraint_14.AspectRatio = 9.633
+
+ScreenGui.ImageButton.Parent = ScreenGui.MainFrame
+ScreenGui.ImageButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ScreenGui.ImageButton.BackgroundTransparency = 1.000
+ScreenGui.ImageButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.ImageButton.BorderSizePixel = 0
+ScreenGui.ImageButton.Position = UDim2.new(0.735748112, 0, 0.0324779376, 0)
+ScreenGui.ImageButton.Size = UDim2.new(0.0529999994, 0, 0.0329999998, 0)
+ScreenGui.ImageButton.Image = "rbxassetid://11833749507"
+ScreenGui.ImageButton.ImageColor3 = Color3.fromRGB(124, 124, 124)
+
+ScreenGui.UIAspectRatioConstraint_15.Parent = ScreenGui.ImageButton
+ScreenGui.UIAspectRatioConstraint_15.AspectRatio = 1.346
+
+ScreenGui.Frame_4.Parent = ScreenGui.MainFrame
+ScreenGui.Frame_4.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+ScreenGui.Frame_4.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.Frame_4.BorderSizePixel = 0
+ScreenGui.Frame_4.Position = UDim2.new(0.0482190996, 0, 0.859695494, 0)
+ScreenGui.Frame_4.Size = UDim2.new(0.869695902, 0, 0.0756620392, 0)
 
 ScreenGui.UICorner_7.CornerRadius = UDim.new(0, 5)
-ScreenGui.UICorner_7.Parent = ScreenGui.SliderBar_2
+ScreenGui.UICorner_7.Parent = ScreenGui.Frame_4
 
-ScreenGui.TextLabel_8.Parent = ScreenGui.SliderBar_2
-ScreenGui.TextLabel_8.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.TextLabel_8.BackgroundTransparency = 1.000
-ScreenGui.TextLabel_8.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.TextLabel_8.BorderSizePixel = 0
-ScreenGui.TextLabel_8.Position = UDim2.new(0.737024248, 0, 0.199997962, 0)
-ScreenGui.TextLabel_8.Size = UDim2.new(0.287197292, 0, 0.590476096, 0)
-ScreenGui.TextLabel_8.Font = Enum.Font.SourceSansBold
-ScreenGui.TextLabel_8.Text = "button"
-ScreenGui.TextLabel_8.TextColor3 = Color3.fromRGB(72, 72, 72)
-ScreenGui.TextLabel_8.TextScaled = true
-ScreenGui.TextLabel_8.TextSize = 14.000
-ScreenGui.TextLabel_8.TextWrapped = true
+ScreenGui.TextLabel_7.Parent = ScreenGui.Frame_4
+ScreenGui.TextLabel_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ScreenGui.TextLabel_7.BackgroundTransparency = 1.000
+ScreenGui.TextLabel_7.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.TextLabel_7.BorderSizePixel = 0
+ScreenGui.TextLabel_7.Position = UDim2.new(0.737024248, 0, 0.199997962, 0)
+ScreenGui.TextLabel_7.Size = UDim2.new(0.287197292, 0, 0.590476096, 0)
+ScreenGui.TextLabel_7.Font = Enum.Font.SourceSansBold
+ScreenGui.TextLabel_7.Text = "button"
+ScreenGui.TextLabel_7.TextColor3 = Color3.fromRGB(72, 72, 72)
+ScreenGui.TextLabel_7.TextScaled = true
+ScreenGui.TextLabel_7.TextSize = 14.000
+ScreenGui.TextLabel_7.TextWrapped = true
 
-ScreenGui.UIAspectRatioConstraint_17.Parent = ScreenGui.TextLabel_8
-ScreenGui.UIAspectRatioConstraint_17.AspectRatio = 4.685
+ScreenGui.UIAspectRatioConstraint_16.Parent = ScreenGui.TextLabel_7
+ScreenGui.UIAspectRatioConstraint_16.AspectRatio = 4.685
 
-ScreenGui.UITextSizeConstraint_10.Parent = ScreenGui.TextLabel_8
-ScreenGui.UITextSizeConstraint_10.MaxTextSize = 17
+ScreenGui.UITextSizeConstraint_9.Parent = ScreenGui.TextLabel_7
+ScreenGui.UITextSizeConstraint_9.MaxTextSize = 17
 
-ScreenGui.TextButton_3.Parent = ScreenGui.SliderBar_2
+ScreenGui.TextButton_3.Parent = ScreenGui.Frame_4
 ScreenGui.TextButton_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 ScreenGui.TextButton_3.BackgroundTransparency = 1.000
 ScreenGui.TextButton_3.BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -571,231 +546,35 @@ ScreenGui.TextButton_3.TextScaled = true
 ScreenGui.TextButton_3.TextSize = 14.000
 ScreenGui.TextButton_3.TextWrapped = true
 
-ScreenGui.UIAspectRatioConstraint_18.Parent = ScreenGui.TextButton_3
-ScreenGui.UIAspectRatioConstraint_18.AspectRatio = 9.633
+ScreenGui.UIAspectRatioConstraint_17.Parent = ScreenGui.TextButton_3
+ScreenGui.UIAspectRatioConstraint_17.AspectRatio = 9.633
 
-ScreenGui.UITextSizeConstraint_11.Parent = ScreenGui.TextButton_3
+ScreenGui.UITextSizeConstraint_10.Parent = ScreenGui.TextButton_3
+ScreenGui.UITextSizeConstraint_10.MaxTextSize = 14
+
+ScreenGui.TextLabel_8.Parent = ScreenGui.Frame_4
+ScreenGui.TextLabel_8.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ScreenGui.TextLabel_8.BackgroundTransparency = 1.000
+ScreenGui.TextLabel_8.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.TextLabel_8.BorderSizePixel = 0
+ScreenGui.TextLabel_8.Position = UDim2.new(-0.0207612459, 0, 0.255048633, 0)
+ScreenGui.TextLabel_8.Size = UDim2.new(0.265929818, 0, 0.46825394, 0)
+ScreenGui.TextLabel_8.ZIndex = 0
+ScreenGui.TextLabel_8.Font = Enum.Font.SourceSansBold
+ScreenGui.TextLabel_8.Text = "Fly Players"
+ScreenGui.TextLabel_8.TextColor3 = Color3.fromRGB(204, 204, 204)
+ScreenGui.TextLabel_8.TextScaled = true
+ScreenGui.TextLabel_8.TextSize = 14.000
+ScreenGui.TextLabel_8.TextWrapped = true
+
+ScreenGui.UIAspectRatioConstraint_18.Parent = ScreenGui.TextLabel_8
+ScreenGui.UIAspectRatioConstraint_18.AspectRatio = 5.471
+
+ScreenGui.UITextSizeConstraint_11.Parent = ScreenGui.TextLabel_8
 ScreenGui.UITextSizeConstraint_11.MaxTextSize = 14
 
-ScreenGui.TextLabel_9.Parent = ScreenGui.SliderBar_2
-ScreenGui.TextLabel_9.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.TextLabel_9.BackgroundTransparency = 1.000
-ScreenGui.TextLabel_9.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.TextLabel_9.BorderSizePixel = 0
-ScreenGui.TextLabel_9.Position = UDim2.new(-0.0207612459, 0, 0.255048633, 0)
-ScreenGui.TextLabel_9.Size = UDim2.new(0.265929818, 0, 0.46825394, 0)
-ScreenGui.TextLabel_9.ZIndex = 0
-ScreenGui.TextLabel_9.Font = Enum.Font.SourceSansBold
-ScreenGui.TextLabel_9.Text = "Aimbot"
-ScreenGui.TextLabel_9.TextColor3 = Color3.fromRGB(204, 204, 204)
-ScreenGui.TextLabel_9.TextScaled = true
-ScreenGui.TextLabel_9.TextSize = 14.000
-ScreenGui.TextLabel_9.TextWrapped = true
-
-ScreenGui.UIAspectRatioConstraint_19.Parent = ScreenGui.TextLabel_9
-ScreenGui.UIAspectRatioConstraint_19.AspectRatio = 5.471
-
-ScreenGui.UITextSizeConstraint_12.Parent = ScreenGui.TextLabel_9
-ScreenGui.UITextSizeConstraint_12.MaxTextSize = 14
-
-ScreenGui.UIAspectRatioConstraint_20.Parent = ScreenGui.SliderBar_2
-ScreenGui.UIAspectRatioConstraint_20.AspectRatio = 9.633
-
-ScreenGui.FrameCoreGui.Name = "FrameCoreGui"
-ScreenGui.FrameCoreGui.Parent = ScreenGui.MainFrame
-ScreenGui.FrameCoreGui.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
-ScreenGui.FrameCoreGui.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.FrameCoreGui.BorderSizePixel = 0
-ScreenGui.FrameCoreGui.Position = UDim2.new(1.0261811, 0, 0.0947036296, 0)
-ScreenGui.FrameCoreGui.Size = UDim2.new(0, 303, 0, 358)
-ScreenGui.FrameCoreGui.Visible = false
-
-ScreenGui.Frame_4.Parent = ScreenGui.FrameCoreGui
-ScreenGui.Frame_4.AnchorPoint = Vector2.new(0.5, 0.5)
-ScreenGui.Frame_4.BackgroundColor3 = Color3.fromRGB(81, 81, 81)
-ScreenGui.Frame_4.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.Frame_4.BorderSizePixel = 0
-ScreenGui.Frame_4.Position = UDim2.new(0.499094754, 0, 0.102599971, 0)
-ScreenGui.Frame_4.Size = UDim2.new(1.00181019, 0, 0.0182645991, 0)
-
-ScreenGui.UICorner_8.CornerRadius = UDim.new(0, 5)
-ScreenGui.UICorner_8.Parent = ScreenGui.Frame_4
-
-ScreenGui.UIAspectRatioConstraint_21.Parent = ScreenGui.Frame_4
-ScreenGui.UIAspectRatioConstraint_21.AspectRatio = 554.887
-
-ScreenGui.UICorner_9.CornerRadius = UDim.new(0, 10)
-ScreenGui.UICorner_9.Parent = ScreenGui.FrameCoreGui
-
-ScreenGui.TextLabel_10.Parent = ScreenGui.FrameCoreGui
-ScreenGui.TextLabel_10.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.TextLabel_10.BackgroundTransparency = 1.000
-ScreenGui.TextLabel_10.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.TextLabel_10.BorderSizePixel = 0
-ScreenGui.TextLabel_10.Size = UDim2.new(0, 303, 0, 36)
-ScreenGui.TextLabel_10.Font = Enum.Font.FredokaOne
-ScreenGui.TextLabel_10.Text = "CoreGui"
-ScreenGui.TextLabel_10.TextColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.TextLabel_10.TextSize = 28.000
-
-ScreenGui.Frame_5.Parent = ScreenGui.MainFrame
-ScreenGui.Frame_5.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
-ScreenGui.Frame_5.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.Frame_5.BorderSizePixel = 0
-ScreenGui.Frame_5.Position = UDim2.new(0.0512284264, 0, 0.743680358, 0)
-ScreenGui.Frame_5.Size = UDim2.new(0.869695902, 0, 0.0756620392, 0)
-
-ScreenGui.UICorner_10.CornerRadius = UDim.new(0, 5)
-ScreenGui.UICorner_10.Parent = ScreenGui.Frame_5
-
-ScreenGui.TextLabel_11.Parent = ScreenGui.Frame_5
-ScreenGui.TextLabel_11.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.TextLabel_11.BackgroundTransparency = 1.000
-ScreenGui.TextLabel_11.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.TextLabel_11.BorderSizePixel = 0
-ScreenGui.TextLabel_11.Position = UDim2.new(0.737024248, 0, 0.199997962, 0)
-ScreenGui.TextLabel_11.Size = UDim2.new(0.287197292, 0, 0.590476096, 0)
-ScreenGui.TextLabel_11.Font = Enum.Font.SourceSansBold
-ScreenGui.TextLabel_11.Text = "button"
-ScreenGui.TextLabel_11.TextColor3 = Color3.fromRGB(72, 72, 72)
-ScreenGui.TextLabel_11.TextScaled = true
-ScreenGui.TextLabel_11.TextSize = 14.000
-ScreenGui.TextLabel_11.TextWrapped = true
-
-ScreenGui.UIAspectRatioConstraint_22.Parent = ScreenGui.TextLabel_11
-ScreenGui.UIAspectRatioConstraint_22.AspectRatio = 4.685
-
-ScreenGui.UITextSizeConstraint_13.Parent = ScreenGui.TextLabel_11
-ScreenGui.UITextSizeConstraint_13.MaxTextSize = 17
-
-ScreenGui.TextButton_4.Parent = ScreenGui.Frame_5
-ScreenGui.TextButton_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.TextButton_4.BackgroundTransparency = 1.000
-ScreenGui.TextButton_4.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.TextButton_4.BorderSizePixel = 0
-ScreenGui.TextButton_4.Size = UDim2.new(1, 0, 1, 0)
-ScreenGui.TextButton_4.Font = Enum.Font.SourceSans
-ScreenGui.TextButton_4.Text = ""
-ScreenGui.TextButton_4.TextColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.TextButton_4.TextScaled = true
-ScreenGui.TextButton_4.TextSize = 14.000
-ScreenGui.TextButton_4.TextWrapped = true
-
-ScreenGui.UIAspectRatioConstraint_23.Parent = ScreenGui.TextButton_4
-ScreenGui.UIAspectRatioConstraint_23.AspectRatio = 9.633
-
-ScreenGui.UITextSizeConstraint_14.Parent = ScreenGui.TextButton_4
-ScreenGui.UITextSizeConstraint_14.MaxTextSize = 14
-
-ScreenGui.TextLabel_12.Parent = ScreenGui.Frame_5
-ScreenGui.TextLabel_12.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.TextLabel_12.BackgroundTransparency = 1.000
-ScreenGui.TextLabel_12.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.TextLabel_12.BorderSizePixel = 0
-ScreenGui.TextLabel_12.Position = UDim2.new(-0.00692041544, 0, 0.188381955, 0)
-ScreenGui.TextLabel_12.Size = UDim2.new(0.265929818, 0, 0.46825394, 0)
-ScreenGui.TextLabel_12.ZIndex = 0
-ScreenGui.TextLabel_12.Font = Enum.Font.SourceSansBold
-ScreenGui.TextLabel_12.Text = "Smooth Aim"
-ScreenGui.TextLabel_12.TextColor3 = Color3.fromRGB(204, 204, 204)
-ScreenGui.TextLabel_12.TextScaled = true
-ScreenGui.TextLabel_12.TextSize = 14.000
-ScreenGui.TextLabel_12.TextWrapped = true
-
-ScreenGui.UIAspectRatioConstraint_24.Parent = ScreenGui.TextLabel_12
-ScreenGui.UIAspectRatioConstraint_24.AspectRatio = 5.471
-
-ScreenGui.UITextSizeConstraint_15.Parent = ScreenGui.TextLabel_12
-ScreenGui.UITextSizeConstraint_15.MaxTextSize = 14
-
-ScreenGui.UIAspectRatioConstraint_25.Parent = ScreenGui.Frame_5
-ScreenGui.UIAspectRatioConstraint_25.AspectRatio = 9.633
-
-ScreenGui.ImageButton.Parent = ScreenGui.MainFrame
-ScreenGui.ImageButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.ImageButton.BackgroundTransparency = 1.000
-ScreenGui.ImageButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.ImageButton.BorderSizePixel = 0
-ScreenGui.ImageButton.Position = UDim2.new(0.735748112, 0, 0.0324779376, 0)
-ScreenGui.ImageButton.Size = UDim2.new(0.0529999994, 0, 0.0329999998, 0)
-ScreenGui.ImageButton.Image = "rbxassetid://11833749507"
-ScreenGui.ImageButton.ImageColor3 = Color3.fromRGB(124, 124, 124)
-
-ScreenGui.UIAspectRatioConstraint_26.Parent = ScreenGui.ImageButton
-ScreenGui.UIAspectRatioConstraint_26.AspectRatio = 1.346
-
-ScreenGui.Frame_6.Parent = ScreenGui.MainFrame
-ScreenGui.Frame_6.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
-ScreenGui.Frame_6.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.Frame_6.BorderSizePixel = 0
-ScreenGui.Frame_6.Position = UDim2.new(0.0482190996, 0, 0.859695494, 0)
-ScreenGui.Frame_6.Size = UDim2.new(0.869695902, 0, 0.0756620392, 0)
-
-ScreenGui.UICorner_11.CornerRadius = UDim.new(0, 5)
-ScreenGui.UICorner_11.Parent = ScreenGui.Frame_6
-
-ScreenGui.TextLabel_13.Parent = ScreenGui.Frame_6
-ScreenGui.TextLabel_13.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.TextLabel_13.BackgroundTransparency = 1.000
-ScreenGui.TextLabel_13.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.TextLabel_13.BorderSizePixel = 0
-ScreenGui.TextLabel_13.Position = UDim2.new(0.737024248, 0, 0.199997962, 0)
-ScreenGui.TextLabel_13.Size = UDim2.new(0.287197292, 0, 0.590476096, 0)
-ScreenGui.TextLabel_13.Font = Enum.Font.SourceSansBold
-ScreenGui.TextLabel_13.Text = "button"
-ScreenGui.TextLabel_13.TextColor3 = Color3.fromRGB(72, 72, 72)
-ScreenGui.TextLabel_13.TextScaled = true
-ScreenGui.TextLabel_13.TextSize = 14.000
-ScreenGui.TextLabel_13.TextWrapped = true
-
-ScreenGui.UIAspectRatioConstraint_27.Parent = ScreenGui.TextLabel_13
-ScreenGui.UIAspectRatioConstraint_27.AspectRatio = 4.685
-
-ScreenGui.UITextSizeConstraint_16.Parent = ScreenGui.TextLabel_13
-ScreenGui.UITextSizeConstraint_16.MaxTextSize = 17
-
-ScreenGui.TextButton_5.Parent = ScreenGui.Frame_6
-ScreenGui.TextButton_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.TextButton_5.BackgroundTransparency = 1.000
-ScreenGui.TextButton_5.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.TextButton_5.BorderSizePixel = 0
-ScreenGui.TextButton_5.Size = UDim2.new(1, 0, 1, 0)
-ScreenGui.TextButton_5.Font = Enum.Font.SourceSans
-ScreenGui.TextButton_5.Text = ""
-ScreenGui.TextButton_5.TextColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.TextButton_5.TextScaled = true
-ScreenGui.TextButton_5.TextSize = 14.000
-ScreenGui.TextButton_5.TextWrapped = true
-
-ScreenGui.UIAspectRatioConstraint_28.Parent = ScreenGui.TextButton_5
-ScreenGui.UIAspectRatioConstraint_28.AspectRatio = 9.633
-
-ScreenGui.UITextSizeConstraint_17.Parent = ScreenGui.TextButton_5
-ScreenGui.UITextSizeConstraint_17.MaxTextSize = 14
-
-ScreenGui.TextLabel_14.Parent = ScreenGui.Frame_6
-ScreenGui.TextLabel_14.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.TextLabel_14.BackgroundTransparency = 1.000
-ScreenGui.TextLabel_14.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.TextLabel_14.BorderSizePixel = 0
-ScreenGui.TextLabel_14.Position = UDim2.new(-0.0207612459, 0, 0.255048633, 0)
-ScreenGui.TextLabel_14.Size = UDim2.new(0.265929818, 0, 0.46825394, 0)
-ScreenGui.TextLabel_14.ZIndex = 0
-ScreenGui.TextLabel_14.Font = Enum.Font.SourceSansBold
-ScreenGui.TextLabel_14.Text = "Fly Players"
-ScreenGui.TextLabel_14.TextColor3 = Color3.fromRGB(204, 204, 204)
-ScreenGui.TextLabel_14.TextScaled = true
-ScreenGui.TextLabel_14.TextSize = 14.000
-ScreenGui.TextLabel_14.TextWrapped = true
-
-ScreenGui.UIAspectRatioConstraint_29.Parent = ScreenGui.TextLabel_14
-ScreenGui.UIAspectRatioConstraint_29.AspectRatio = 5.471
-
-ScreenGui.UITextSizeConstraint_18.Parent = ScreenGui.TextLabel_14
-ScreenGui.UITextSizeConstraint_18.MaxTextSize = 14
-
-ScreenGui.UIAspectRatioConstraint_30.Parent = ScreenGui.Frame_6
-ScreenGui.UIAspectRatioConstraint_30.AspectRatio = 9.633
+ScreenGui.UIAspectRatioConstraint_19.Parent = ScreenGui.Frame_4
+ScreenGui.UIAspectRatioConstraint_19.AspectRatio = 9.633
 
 ScreenGui.MotywButton.Name = "MotywButton"
 ScreenGui.MotywButton.Parent = ScreenGui.MainFrame
@@ -808,8 +587,8 @@ ScreenGui.MotywButton.Size = UDim2.new(0.0529999994, 0, 0.0329999998, 0)
 ScreenGui.MotywButton.Image = "rbxassetid://15330618083"
 ScreenGui.MotywButton.ImageColor3 = Color3.fromRGB(124, 124, 124)
 
-ScreenGui.UIAspectRatioConstraint_31.Parent = ScreenGui.MotywButton
-ScreenGui.UIAspectRatioConstraint_31.AspectRatio = 1.346
+ScreenGui.UIAspectRatioConstraint_20.Parent = ScreenGui.MotywButton
+ScreenGui.UIAspectRatioConstraint_20.AspectRatio = 1.346
 
 ScreenGui.SettingsFrame.Name = "SettingsFrame"
 ScreenGui.SettingsFrame.Parent = ScreenGui.MainFrame
@@ -820,183 +599,183 @@ ScreenGui.SettingsFrame.Position = UDim2.new(1.02618098, 0, 0.0947036296, 0)
 ScreenGui.SettingsFrame.Size = UDim2.new(0.91483587, 0, 0.902900398, 0)
 ScreenGui.SettingsFrame.Visible = false
 
+ScreenGui.Frame_5.Parent = ScreenGui.SettingsFrame
+ScreenGui.Frame_5.AnchorPoint = Vector2.new(0.5, 0.5)
+ScreenGui.Frame_5.BackgroundColor3 = Color3.fromRGB(81, 81, 81)
+ScreenGui.Frame_5.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.Frame_5.BorderSizePixel = 0
+ScreenGui.Frame_5.Position = UDim2.new(0.499094754, 0, 0.102599971, 0)
+ScreenGui.Frame_5.Size = UDim2.new(1.00181019, 0, 0.0182645991, 0)
+
+ScreenGui.UICorner_8.CornerRadius = UDim.new(0, 5)
+ScreenGui.UICorner_8.Parent = ScreenGui.Frame_5
+
+ScreenGui.UIAspectRatioConstraint_21.Parent = ScreenGui.Frame_5
+ScreenGui.UIAspectRatioConstraint_21.AspectRatio = 554.887
+
+ScreenGui.TextLabel_9.Parent = ScreenGui.SettingsFrame
+ScreenGui.TextLabel_9.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ScreenGui.TextLabel_9.BackgroundTransparency = 1.000
+ScreenGui.TextLabel_9.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.TextLabel_9.BorderSizePixel = 0
+ScreenGui.TextLabel_9.Position = UDim2.new(0.196710482, 0, 0, 0)
+ScreenGui.TextLabel_9.Size = UDim2.new(0.598684132, 0, 0.0698323995, 0)
+ScreenGui.TextLabel_9.Font = Enum.Font.FredokaOne
+ScreenGui.TextLabel_9.Text = "Settings"
+ScreenGui.TextLabel_9.TextColor3 = Color3.fromRGB(255, 255, 255)
+ScreenGui.TextLabel_9.TextScaled = true
+ScreenGui.TextLabel_9.TextSize = 14.000
+ScreenGui.TextLabel_9.TextWrapped = true
+
+ScreenGui.UIAspectRatioConstraint_22.Parent = ScreenGui.TextLabel_9
+ScreenGui.UIAspectRatioConstraint_22.AspectRatio = 7.280
+
+ScreenGui.UITextSizeConstraint_12.Parent = ScreenGui.TextLabel_9
+ScreenGui.UITextSizeConstraint_12.MaxTextSize = 24
+
+ScreenGui.UICorner_9.CornerRadius = UDim.new(0, 10)
+ScreenGui.UICorner_9.Parent = ScreenGui.SettingsFrame
+
+ScreenGui.Frame_6.Parent = ScreenGui.SettingsFrame
+ScreenGui.Frame_6.BackgroundColor3 = Color3.fromRGB(66, 66, 66)
+ScreenGui.Frame_6.BackgroundTransparency = 0.600
+ScreenGui.Frame_6.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.Frame_6.BorderSizePixel = 0
+ScreenGui.Frame_6.Position = UDim2.new(0.0907893926, 0, 0.23589389, 0)
+ScreenGui.Frame_6.Size = UDim2.new(0.8125, 0, 0.19273743, 0)
+
+ScreenGui.UICorner_10.CornerRadius = UDim.new(0, 10)
+ScreenGui.UICorner_10.Parent = ScreenGui.Frame_6
+
+ScreenGui.TextLabel_10.Parent = ScreenGui.Frame_6
+ScreenGui.TextLabel_10.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ScreenGui.TextLabel_10.BackgroundTransparency = 1.000
+ScreenGui.TextLabel_10.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.TextLabel_10.BorderSizePixel = 0
+ScreenGui.TextLabel_10.Position = UDim2.new(0.0242914986, 0, 0.0379041582, 0)
+ScreenGui.TextLabel_10.Size = UDim2.new(0.951416969, 0, 0.362318844, 0)
+ScreenGui.TextLabel_10.Font = Enum.Font.FredokaOne
+ScreenGui.TextLabel_10.Text = "Hitbox"
+ScreenGui.TextLabel_10.TextColor3 = Color3.fromRGB(255, 255, 255)
+ScreenGui.TextLabel_10.TextScaled = true
+ScreenGui.TextLabel_10.TextSize = 14.000
+ScreenGui.TextLabel_10.TextWrapped = true
+
+ScreenGui.UIAspectRatioConstraint_23.Parent = ScreenGui.TextLabel_10
+ScreenGui.UIAspectRatioConstraint_23.AspectRatio = 9.400
+
+ScreenGui.UITextSizeConstraint_13.Parent = ScreenGui.TextLabel_10
+ScreenGui.UITextSizeConstraint_13.MaxTextSize = 25
+
+ScreenGui.UIAspectRatioConstraint_24.Parent = ScreenGui.Frame_6
+ScreenGui.UIAspectRatioConstraint_24.AspectRatio = 3.580
+
 ScreenGui.Frame_7.Parent = ScreenGui.SettingsFrame
-ScreenGui.Frame_7.AnchorPoint = Vector2.new(0.5, 0.5)
-ScreenGui.Frame_7.BackgroundColor3 = Color3.fromRGB(81, 81, 81)
+ScreenGui.Frame_7.BackgroundColor3 = Color3.fromRGB(85, 255, 127)
 ScreenGui.Frame_7.BorderColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui.Frame_7.BorderSizePixel = 0
-ScreenGui.Frame_7.Position = UDim2.new(0.499094754, 0, 0.102599971, 0)
-ScreenGui.Frame_7.Size = UDim2.new(1.00181019, 0, 0.0182645991, 0)
+ScreenGui.Frame_7.Position = UDim2.new(0.0907893926, 0, 0.336452544, 0)
+ScreenGui.Frame_7.Size = UDim2.new(0.8125, 0, 0.0837988853, 0)
 
-ScreenGui.UICorner_12.CornerRadius = UDim.new(0, 5)
-ScreenGui.UICorner_12.Parent = ScreenGui.Frame_7
+ScreenGui.UICorner_11.CornerRadius = UDim.new(0, 10)
+ScreenGui.UICorner_11.Parent = ScreenGui.Frame_7
 
-ScreenGui.UIAspectRatioConstraint_32.Parent = ScreenGui.Frame_7
-ScreenGui.UIAspectRatioConstraint_32.AspectRatio = 554.887
-
-ScreenGui.TextLabel_15.Parent = ScreenGui.SettingsFrame
-ScreenGui.TextLabel_15.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.TextLabel_15.BackgroundTransparency = 1.000
-ScreenGui.TextLabel_15.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.TextLabel_15.BorderSizePixel = 0
-ScreenGui.TextLabel_15.Position = UDim2.new(0.196710482, 0, 0, 0)
-ScreenGui.TextLabel_15.Size = UDim2.new(0.598684132, 0, 0.0698323995, 0)
-ScreenGui.TextLabel_15.Font = Enum.Font.FredokaOne
-ScreenGui.TextLabel_15.Text = "Settings"
-ScreenGui.TextLabel_15.TextColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.TextLabel_15.TextScaled = true
-ScreenGui.TextLabel_15.TextSize = 14.000
-ScreenGui.TextLabel_15.TextWrapped = true
-
-ScreenGui.UIAspectRatioConstraint_33.Parent = ScreenGui.TextLabel_15
-ScreenGui.UIAspectRatioConstraint_33.AspectRatio = 7.280
-
-ScreenGui.UITextSizeConstraint_19.Parent = ScreenGui.TextLabel_15
-ScreenGui.UITextSizeConstraint_19.MaxTextSize = 24
-
-ScreenGui.UICorner_13.CornerRadius = UDim.new(0, 10)
-ScreenGui.UICorner_13.Parent = ScreenGui.SettingsFrame
+ScreenGui.UIAspectRatioConstraint_25.Parent = ScreenGui.Frame_7
+ScreenGui.UIAspectRatioConstraint_25.AspectRatio = 8.233
 
 ScreenGui.Frame_8.Parent = ScreenGui.SettingsFrame
 ScreenGui.Frame_8.BackgroundColor3 = Color3.fromRGB(66, 66, 66)
 ScreenGui.Frame_8.BackgroundTransparency = 0.600
 ScreenGui.Frame_8.BorderColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui.Frame_8.BorderSizePixel = 0
-ScreenGui.Frame_8.Position = UDim2.new(0.0907893926, 0, 0.23589389, 0)
+ScreenGui.Frame_8.Position = UDim2.new(0.0907893926, 0, 0.702374339, 0)
 ScreenGui.Frame_8.Size = UDim2.new(0.8125, 0, 0.19273743, 0)
 
-ScreenGui.UICorner_14.CornerRadius = UDim.new(0, 10)
-ScreenGui.UICorner_14.Parent = ScreenGui.Frame_8
+ScreenGui.UICorner_12.CornerRadius = UDim.new(0, 10)
+ScreenGui.UICorner_12.Parent = ScreenGui.Frame_8
 
-ScreenGui.TextLabel_16.Parent = ScreenGui.Frame_8
-ScreenGui.TextLabel_16.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.TextLabel_16.BackgroundTransparency = 1.000
-ScreenGui.TextLabel_16.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.TextLabel_16.BorderSizePixel = 0
-ScreenGui.TextLabel_16.Position = UDim2.new(0.0242914986, 0, 0.0379041582, 0)
-ScreenGui.TextLabel_16.Size = UDim2.new(0.951416969, 0, 0.362318844, 0)
-ScreenGui.TextLabel_16.Font = Enum.Font.FredokaOne
-ScreenGui.TextLabel_16.Text = "Hitbox"
-ScreenGui.TextLabel_16.TextColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.TextLabel_16.TextScaled = true
-ScreenGui.TextLabel_16.TextSize = 14.000
-ScreenGui.TextLabel_16.TextWrapped = true
+ScreenGui.TextLabel_11.Parent = ScreenGui.Frame_8
+ScreenGui.TextLabel_11.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ScreenGui.TextLabel_11.BackgroundTransparency = 1.000
+ScreenGui.TextLabel_11.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.TextLabel_11.BorderSizePixel = 0
+ScreenGui.TextLabel_11.Position = UDim2.new(0.0242914986, 0, 0.0379041582, 0)
+ScreenGui.TextLabel_11.Size = UDim2.new(0.951416969, 0, 0.362318844, 0)
+ScreenGui.TextLabel_11.Font = Enum.Font.FredokaOne
+ScreenGui.TextLabel_11.Text = "Speed"
+ScreenGui.TextLabel_11.TextColor3 = Color3.fromRGB(255, 255, 255)
+ScreenGui.TextLabel_11.TextScaled = true
+ScreenGui.TextLabel_11.TextSize = 14.000
+ScreenGui.TextLabel_11.TextWrapped = true
 
-ScreenGui.UIAspectRatioConstraint_34.Parent = ScreenGui.TextLabel_16
-ScreenGui.UIAspectRatioConstraint_34.AspectRatio = 9.400
+ScreenGui.UIAspectRatioConstraint_26.Parent = ScreenGui.TextLabel_11
+ScreenGui.UIAspectRatioConstraint_26.AspectRatio = 9.400
 
-ScreenGui.UITextSizeConstraint_20.Parent = ScreenGui.TextLabel_16
-ScreenGui.UITextSizeConstraint_20.MaxTextSize = 25
+ScreenGui.UITextSizeConstraint_14.Parent = ScreenGui.TextLabel_11
+ScreenGui.UITextSizeConstraint_14.MaxTextSize = 25
 
-ScreenGui.UIAspectRatioConstraint_35.Parent = ScreenGui.Frame_8
-ScreenGui.UIAspectRatioConstraint_35.AspectRatio = 3.580
+ScreenGui.UIAspectRatioConstraint_27.Parent = ScreenGui.Frame_8
+ScreenGui.UIAspectRatioConstraint_27.AspectRatio = 3.580
 
 ScreenGui.Frame_9.Parent = ScreenGui.SettingsFrame
 ScreenGui.Frame_9.BackgroundColor3 = Color3.fromRGB(85, 255, 127)
 ScreenGui.Frame_9.BorderColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui.Frame_9.BorderSizePixel = 0
-ScreenGui.Frame_9.Position = UDim2.new(0.0907893926, 0, 0.336452544, 0)
+ScreenGui.Frame_9.Position = UDim2.new(0.0907893926, 0, 0.802932978, 0)
 ScreenGui.Frame_9.Size = UDim2.new(0.8125, 0, 0.0837988853, 0)
 
-ScreenGui.UICorner_15.CornerRadius = UDim.new(0, 10)
-ScreenGui.UICorner_15.Parent = ScreenGui.Frame_9
+ScreenGui.UICorner_13.CornerRadius = UDim.new(0, 10)
+ScreenGui.UICorner_13.Parent = ScreenGui.Frame_9
 
-ScreenGui.UIAspectRatioConstraint_36.Parent = ScreenGui.Frame_9
-ScreenGui.UIAspectRatioConstraint_36.AspectRatio = 8.233
+ScreenGui.UIAspectRatioConstraint_28.Parent = ScreenGui.Frame_9
+ScreenGui.UIAspectRatioConstraint_28.AspectRatio = 8.233
 
 ScreenGui.Frame_10.Parent = ScreenGui.SettingsFrame
 ScreenGui.Frame_10.BackgroundColor3 = Color3.fromRGB(66, 66, 66)
 ScreenGui.Frame_10.BackgroundTransparency = 0.600
 ScreenGui.Frame_10.BorderColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui.Frame_10.BorderSizePixel = 0
-ScreenGui.Frame_10.Position = UDim2.new(0.0907893926, 0, 0.702374339, 0)
+ScreenGui.Frame_10.Position = UDim2.new(0.0907893926, 0, 0.448184401, 0)
 ScreenGui.Frame_10.Size = UDim2.new(0.8125, 0, 0.19273743, 0)
 
-ScreenGui.UICorner_16.CornerRadius = UDim.new(0, 10)
-ScreenGui.UICorner_16.Parent = ScreenGui.Frame_10
+ScreenGui.UICorner_14.CornerRadius = UDim.new(0, 10)
+ScreenGui.UICorner_14.Parent = ScreenGui.Frame_10
 
-ScreenGui.TextLabel_17.Parent = ScreenGui.Frame_10
-ScreenGui.TextLabel_17.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.TextLabel_17.BackgroundTransparency = 1.000
-ScreenGui.TextLabel_17.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.TextLabel_17.BorderSizePixel = 0
-ScreenGui.TextLabel_17.Position = UDim2.new(0.0242914986, 0, 0.0379041582, 0)
-ScreenGui.TextLabel_17.Size = UDim2.new(0.951416969, 0, 0.362318844, 0)
-ScreenGui.TextLabel_17.Font = Enum.Font.FredokaOne
-ScreenGui.TextLabel_17.Text = "Speed"
-ScreenGui.TextLabel_17.TextColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.TextLabel_17.TextScaled = true
-ScreenGui.TextLabel_17.TextSize = 14.000
-ScreenGui.TextLabel_17.TextWrapped = true
+ScreenGui.TextLabel_12.Parent = ScreenGui.Frame_10
+ScreenGui.TextLabel_12.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ScreenGui.TextLabel_12.BackgroundTransparency = 1.000
+ScreenGui.TextLabel_12.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.TextLabel_12.BorderSizePixel = 0
+ScreenGui.TextLabel_12.Position = UDim2.new(0.0242914986, 0, 0.0379041582, 0)
+ScreenGui.TextLabel_12.Size = UDim2.new(0.951416969, 0, 0.362318844, 0)
+ScreenGui.TextLabel_12.Font = Enum.Font.FredokaOne
+ScreenGui.TextLabel_12.Text = "Aimbot"
+ScreenGui.TextLabel_12.TextColor3 = Color3.fromRGB(255, 255, 255)
+ScreenGui.TextLabel_12.TextScaled = true
+ScreenGui.TextLabel_12.TextSize = 14.000
+ScreenGui.TextLabel_12.TextWrapped = true
 
-ScreenGui.UIAspectRatioConstraint_37.Parent = ScreenGui.TextLabel_17
-ScreenGui.UIAspectRatioConstraint_37.AspectRatio = 9.400
+ScreenGui.UIAspectRatioConstraint_29.Parent = ScreenGui.TextLabel_12
+ScreenGui.UIAspectRatioConstraint_29.AspectRatio = 9.400
 
-ScreenGui.UITextSizeConstraint_21.Parent = ScreenGui.TextLabel_17
-ScreenGui.UITextSizeConstraint_21.MaxTextSize = 25
+ScreenGui.UITextSizeConstraint_15.Parent = ScreenGui.TextLabel_12
+ScreenGui.UITextSizeConstraint_15.MaxTextSize = 25
 
-ScreenGui.UIAspectRatioConstraint_38.Parent = ScreenGui.Frame_10
-ScreenGui.UIAspectRatioConstraint_38.AspectRatio = 3.580
+ScreenGui.UIAspectRatioConstraint_30.Parent = ScreenGui.Frame_10
+ScreenGui.UIAspectRatioConstraint_30.AspectRatio = 3.580
 
 ScreenGui.Frame_11.Parent = ScreenGui.SettingsFrame
 ScreenGui.Frame_11.BackgroundColor3 = Color3.fromRGB(85, 255, 127)
 ScreenGui.Frame_11.BorderColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui.Frame_11.BorderSizePixel = 0
-ScreenGui.Frame_11.Position = UDim2.new(0.0907893926, 0, 0.802932978, 0)
+ScreenGui.Frame_11.Position = UDim2.new(0.0907893926, 0, 0.548743069, 0)
 ScreenGui.Frame_11.Size = UDim2.new(0.8125, 0, 0.0837988853, 0)
 
-ScreenGui.UICorner_17.CornerRadius = UDim.new(0, 10)
-ScreenGui.UICorner_17.Parent = ScreenGui.Frame_11
+ScreenGui.UICorner_15.CornerRadius = UDim.new(0, 10)
+ScreenGui.UICorner_15.Parent = ScreenGui.Frame_11
 
-ScreenGui.UIAspectRatioConstraint_39.Parent = ScreenGui.Frame_11
-ScreenGui.UIAspectRatioConstraint_39.AspectRatio = 8.233
-
-ScreenGui.Frame_12.Parent = ScreenGui.SettingsFrame
-ScreenGui.Frame_12.BackgroundColor3 = Color3.fromRGB(66, 66, 66)
-ScreenGui.Frame_12.BackgroundTransparency = 0.600
-ScreenGui.Frame_12.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.Frame_12.BorderSizePixel = 0
-ScreenGui.Frame_12.Position = UDim2.new(0.0907893926, 0, 0.448184401, 0)
-ScreenGui.Frame_12.Size = UDim2.new(0.8125, 0, 0.19273743, 0)
-
-ScreenGui.UICorner_18.CornerRadius = UDim.new(0, 10)
-ScreenGui.UICorner_18.Parent = ScreenGui.Frame_12
-
-ScreenGui.TextLabel_18.Parent = ScreenGui.Frame_12
-ScreenGui.TextLabel_18.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.TextLabel_18.BackgroundTransparency = 1.000
-ScreenGui.TextLabel_18.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.TextLabel_18.BorderSizePixel = 0
-ScreenGui.TextLabel_18.Position = UDim2.new(0.0242914986, 0, 0.0379041582, 0)
-ScreenGui.TextLabel_18.Size = UDim2.new(0.951416969, 0, 0.362318844, 0)
-ScreenGui.TextLabel_18.Font = Enum.Font.FredokaOne
-ScreenGui.TextLabel_18.Text = "Aimbot"
-ScreenGui.TextLabel_18.TextColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.TextLabel_18.TextScaled = true
-ScreenGui.TextLabel_18.TextSize = 14.000
-ScreenGui.TextLabel_18.TextWrapped = true
-
-ScreenGui.UIAspectRatioConstraint_40.Parent = ScreenGui.TextLabel_18
-ScreenGui.UIAspectRatioConstraint_40.AspectRatio = 9.400
-
-ScreenGui.UITextSizeConstraint_22.Parent = ScreenGui.TextLabel_18
-ScreenGui.UITextSizeConstraint_22.MaxTextSize = 25
-
-ScreenGui.UIAspectRatioConstraint_41.Parent = ScreenGui.Frame_12
-ScreenGui.UIAspectRatioConstraint_41.AspectRatio = 3.580
-
-ScreenGui.Frame_13.Parent = ScreenGui.SettingsFrame
-ScreenGui.Frame_13.BackgroundColor3 = Color3.fromRGB(85, 255, 127)
-ScreenGui.Frame_13.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.Frame_13.BorderSizePixel = 0
-ScreenGui.Frame_13.Position = UDim2.new(0.0907893926, 0, 0.548743069, 0)
-ScreenGui.Frame_13.Size = UDim2.new(0.8125, 0, 0.0837988853, 0)
-
-ScreenGui.UICorner_19.CornerRadius = UDim.new(0, 10)
-ScreenGui.UICorner_19.Parent = ScreenGui.Frame_13
-
-ScreenGui.UIAspectRatioConstraint_42.Parent = ScreenGui.Frame_13
-ScreenGui.UIAspectRatioConstraint_42.AspectRatio = 8.233
+ScreenGui.UIAspectRatioConstraint_31.Parent = ScreenGui.Frame_11
+ScreenGui.UIAspectRatioConstraint_31.AspectRatio = 8.233
 
 ScreenGui.SliderFrame.Name = "SliderFrame"
 ScreenGui.SliderFrame.Parent = ScreenGui.SettingsFrame
@@ -1006,8 +785,8 @@ ScreenGui.SliderFrame.BorderSizePixel = 0
 ScreenGui.SliderFrame.Position = UDim2.new(0.114625931, 0, 0.350838006, 0)
 ScreenGui.SliderFrame.Size = UDim2.new(0.766447365, 0, 0.0502793305, 0)
 
-ScreenGui.UICorner_20.CornerRadius = UDim.new(1, 0)
-ScreenGui.UICorner_20.Parent = ScreenGui.SliderFrame
+ScreenGui.UICorner_16.CornerRadius = UDim.new(1, 0)
+ScreenGui.UICorner_16.Parent = ScreenGui.SliderFrame
 
 ScreenGui.SliderKnob.Name = "SliderKnob"
 ScreenGui.SliderKnob.Parent = ScreenGui.SliderFrame
@@ -1023,17 +802,17 @@ ScreenGui.SliderKnob.TextScaled = true
 ScreenGui.SliderKnob.TextSize = 14.000
 ScreenGui.SliderKnob.TextWrapped = true
 
-ScreenGui.UICorner_21.CornerRadius = UDim.new(1, 0)
-ScreenGui.UICorner_21.Parent = ScreenGui.SliderKnob
+ScreenGui.UICorner_17.CornerRadius = UDim.new(1, 0)
+ScreenGui.UICorner_17.Parent = ScreenGui.SliderKnob
 
-ScreenGui.UIAspectRatioConstraint_43.Parent = ScreenGui.SliderKnob
-ScreenGui.UIAspectRatioConstraint_43.AspectRatio = 1.156
+ScreenGui.UIAspectRatioConstraint_32.Parent = ScreenGui.SliderKnob
+ScreenGui.UIAspectRatioConstraint_32.AspectRatio = 1.156
 
-ScreenGui.UITextSizeConstraint_23.Parent = ScreenGui.SliderKnob
-ScreenGui.UITextSizeConstraint_23.MaxTextSize = 14
+ScreenGui.UITextSizeConstraint_16.Parent = ScreenGui.SliderKnob
+ScreenGui.UITextSizeConstraint_16.MaxTextSize = 14
 
-ScreenGui.UIAspectRatioConstraint_44.Parent = ScreenGui.SliderFrame
-ScreenGui.UIAspectRatioConstraint_44.AspectRatio = 12.944
+ScreenGui.UIAspectRatioConstraint_33.Parent = ScreenGui.SliderFrame
+ScreenGui.UIAspectRatioConstraint_33.AspectRatio = 12.944
 
 ScreenGui.SliderFrame_2.Name = "SliderFrame"
 ScreenGui.SliderFrame_2.Parent = ScreenGui.SettingsFrame
@@ -1043,8 +822,8 @@ ScreenGui.SliderFrame_2.BorderSizePixel = 0
 ScreenGui.SliderFrame_2.Position = UDim2.new(0.114626028, 0, 0.825698435, 0)
 ScreenGui.SliderFrame_2.Size = UDim2.new(0.766447365, 0, 0.0502793305, 0)
 
-ScreenGui.UICorner_22.CornerRadius = UDim.new(1, 0)
-ScreenGui.UICorner_22.Parent = ScreenGui.SliderFrame_2
+ScreenGui.UICorner_18.CornerRadius = UDim.new(1, 0)
+ScreenGui.UICorner_18.Parent = ScreenGui.SliderFrame_2
 
 ScreenGui.SliderKnob_2.Name = "SliderKnob"
 ScreenGui.SliderKnob_2.Parent = ScreenGui.SliderFrame_2
@@ -1060,17 +839,17 @@ ScreenGui.SliderKnob_2.TextScaled = true
 ScreenGui.SliderKnob_2.TextSize = 14.000
 ScreenGui.SliderKnob_2.TextWrapped = true
 
-ScreenGui.UICorner_23.CornerRadius = UDim.new(1, 0)
-ScreenGui.UICorner_23.Parent = ScreenGui.SliderKnob_2
+ScreenGui.UICorner_19.CornerRadius = UDim.new(1, 0)
+ScreenGui.UICorner_19.Parent = ScreenGui.SliderKnob_2
 
-ScreenGui.UIAspectRatioConstraint_45.Parent = ScreenGui.SliderKnob_2
-ScreenGui.UIAspectRatioConstraint_45.AspectRatio = 1.156
+ScreenGui.UIAspectRatioConstraint_34.Parent = ScreenGui.SliderKnob_2
+ScreenGui.UIAspectRatioConstraint_34.AspectRatio = 1.156
 
-ScreenGui.UITextSizeConstraint_24.Parent = ScreenGui.SliderKnob_2
-ScreenGui.UITextSizeConstraint_24.MaxTextSize = 14
+ScreenGui.UITextSizeConstraint_17.Parent = ScreenGui.SliderKnob_2
+ScreenGui.UITextSizeConstraint_17.MaxTextSize = 14
 
-ScreenGui.UIAspectRatioConstraint_46.Parent = ScreenGui.SliderFrame_2
-ScreenGui.UIAspectRatioConstraint_46.AspectRatio = 12.944
+ScreenGui.UIAspectRatioConstraint_35.Parent = ScreenGui.SliderFrame_2
+ScreenGui.UIAspectRatioConstraint_35.AspectRatio = 12.944
 
 ScreenGui.SliderFrame_3.Name = "SliderFrame"
 ScreenGui.SliderFrame_3.Parent = ScreenGui.SettingsFrame
@@ -1080,8 +859,8 @@ ScreenGui.SliderFrame_3.BorderSizePixel = 0
 ScreenGui.SliderFrame_3.Position = UDim2.new(0.114626028, 0, 0.563128531, 0)
 ScreenGui.SliderFrame_3.Size = UDim2.new(0.766447365, 0, 0.0502793305, 0)
 
-ScreenGui.UICorner_24.CornerRadius = UDim.new(1, 0)
-ScreenGui.UICorner_24.Parent = ScreenGui.SliderFrame_3
+ScreenGui.UICorner_20.CornerRadius = UDim.new(1, 0)
+ScreenGui.UICorner_20.Parent = ScreenGui.SliderFrame_3
 
 ScreenGui.SliderKnob_3.Name = "SliderKnob"
 ScreenGui.SliderKnob_3.Parent = ScreenGui.SliderFrame_3
@@ -1097,147 +876,266 @@ ScreenGui.SliderKnob_3.TextScaled = true
 ScreenGui.SliderKnob_3.TextSize = 14.000
 ScreenGui.SliderKnob_3.TextWrapped = true
 
-ScreenGui.UICorner_25.CornerRadius = UDim.new(1, 0)
-ScreenGui.UICorner_25.Parent = ScreenGui.SliderKnob_3
+ScreenGui.UICorner_21.CornerRadius = UDim.new(1, 0)
+ScreenGui.UICorner_21.Parent = ScreenGui.SliderKnob_3
 
-ScreenGui.UIAspectRatioConstraint_47.Parent = ScreenGui.SliderKnob_3
-ScreenGui.UIAspectRatioConstraint_47.AspectRatio = 1.156
+ScreenGui.UIAspectRatioConstraint_36.Parent = ScreenGui.SliderKnob_3
+ScreenGui.UIAspectRatioConstraint_36.AspectRatio = 1.156
 
-ScreenGui.UITextSizeConstraint_25.Parent = ScreenGui.SliderKnob_3
-ScreenGui.UITextSizeConstraint_25.MaxTextSize = 14
+ScreenGui.UITextSizeConstraint_18.Parent = ScreenGui.SliderKnob_3
+ScreenGui.UITextSizeConstraint_18.MaxTextSize = 14
 
-ScreenGui.UIAspectRatioConstraint_48.Parent = ScreenGui.SliderFrame_3
-ScreenGui.UIAspectRatioConstraint_48.AspectRatio = 12.944
+ScreenGui.UIAspectRatioConstraint_37.Parent = ScreenGui.SliderFrame_3
+ScreenGui.UIAspectRatioConstraint_37.AspectRatio = 12.944
 
-ScreenGui.Frame_14.Parent = ScreenGui.SettingsFrame
-ScreenGui.Frame_14.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.Frame_14.BackgroundTransparency = 0.500
+ScreenGui.Frame_12.Parent = ScreenGui.SettingsFrame
+ScreenGui.Frame_12.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.Frame_12.BackgroundTransparency = 0.500
+ScreenGui.Frame_12.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.Frame_12.BorderSizePixel = 0
+ScreenGui.Frame_12.Position = UDim2.new(0.0907893926, 0, 0.23589389, 0)
+ScreenGui.Frame_12.Size = UDim2.new(0.81249994, 0, 0.183100507, 0)
+ScreenGui.Frame_12.ZIndex = 100
+
+ScreenGui.UICorner_22.CornerRadius = UDim.new(0, 10)
+ScreenGui.UICorner_22.Parent = ScreenGui.Frame_12
+
+ScreenGui.UIAspectRatioConstraint_38.Parent = ScreenGui.Frame_12
+ScreenGui.UIAspectRatioConstraint_38.AspectRatio = 3.768
+
+ScreenGui.Frame_13.Parent = ScreenGui.SettingsFrame
+ScreenGui.Frame_13.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.Frame_13.BackgroundTransparency = 0.500
+ScreenGui.Frame_13.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.Frame_13.BorderSizePixel = 0
+ScreenGui.Frame_13.Position = UDim2.new(0.0907893926, 0, 0.450977683, 0)
+ScreenGui.Frame_13.Size = UDim2.new(0.81249994, 0, 0.183100507, 0)
+ScreenGui.Frame_13.ZIndex = 100
+
+ScreenGui.UICorner_23.CornerRadius = UDim.new(0, 10)
+ScreenGui.UICorner_23.Parent = ScreenGui.Frame_13
+
+ScreenGui.UIAspectRatioConstraint_39.Parent = ScreenGui.Frame_13
+ScreenGui.UIAspectRatioConstraint_39.AspectRatio = 3.768
+
+ScreenGui.UIAspectRatioConstraint_40.Parent = ScreenGui.SettingsFrame
+ScreenGui.UIAspectRatioConstraint_40.AspectRatio = 0.849
+
+ScreenGui.SettingsOpen.Name = "SettingsOpen"
+ScreenGui.SettingsOpen.Parent = ScreenGui.MainFrame
+ScreenGui.SettingsOpen.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ScreenGui.SettingsOpen.BackgroundTransparency = 1.000
+ScreenGui.SettingsOpen.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.SettingsOpen.BorderSizePixel = 0
+ScreenGui.SettingsOpen.Position = UDim2.new(0.352091432, 0, 0.124968447, 0)
+ScreenGui.SettingsOpen.Size = UDim2.new(0.270839572, 0, 0.0706179067, 0)
+ScreenGui.SettingsOpen.ZIndex = 100
+ScreenGui.SettingsOpen.Font = Enum.Font.SourceSans
+ScreenGui.SettingsOpen.Text = ""
+ScreenGui.SettingsOpen.TextColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.SettingsOpen.TextSize = 14.000
+
+ScreenGui.SliderBar_2.Name = "SliderBar"
+ScreenGui.SliderBar_2.Parent = ScreenGui.MainFrame
+ScreenGui.SliderBar_2.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+ScreenGui.SliderBar_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.SliderBar_2.BorderSizePixel = 0
+ScreenGui.SliderBar_2.Position = UDim2.new(0.0512284264, 0, 0.511650085, 0)
+ScreenGui.SliderBar_2.Size = UDim2.new(0.869695902, 0, 0.0756620392, 0)
+
+ScreenGui.UICorner_24.CornerRadius = UDim.new(0, 5)
+ScreenGui.UICorner_24.Parent = ScreenGui.SliderBar_2
+
+ScreenGui.TextLabel_13.Parent = ScreenGui.SliderBar_2
+ScreenGui.TextLabel_13.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ScreenGui.TextLabel_13.BackgroundTransparency = 1.000
+ScreenGui.TextLabel_13.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.TextLabel_13.BorderSizePixel = 0
+ScreenGui.TextLabel_13.Position = UDim2.new(0.737024248, 0, 0.199997962, 0)
+ScreenGui.TextLabel_13.Size = UDim2.new(0.287197292, 0, 0.590476096, 0)
+ScreenGui.TextLabel_13.Font = Enum.Font.SourceSansBold
+ScreenGui.TextLabel_13.Text = "button"
+ScreenGui.TextLabel_13.TextColor3 = Color3.fromRGB(72, 72, 72)
+ScreenGui.TextLabel_13.TextScaled = true
+ScreenGui.TextLabel_13.TextSize = 14.000
+ScreenGui.TextLabel_13.TextWrapped = true
+
+ScreenGui.UIAspectRatioConstraint_41.Parent = ScreenGui.TextLabel_13
+ScreenGui.UIAspectRatioConstraint_41.AspectRatio = 4.685
+
+ScreenGui.UITextSizeConstraint_19.Parent = ScreenGui.TextLabel_13
+ScreenGui.UITextSizeConstraint_19.MaxTextSize = 17
+
+ScreenGui.TextButton_4.Parent = ScreenGui.SliderBar_2
+ScreenGui.TextButton_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ScreenGui.TextButton_4.BackgroundTransparency = 1.000
+ScreenGui.TextButton_4.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.TextButton_4.BorderSizePixel = 0
+ScreenGui.TextButton_4.Size = UDim2.new(1, 0, 1, 0)
+ScreenGui.TextButton_4.Font = Enum.Font.SourceSans
+ScreenGui.TextButton_4.Text = ""
+ScreenGui.TextButton_4.TextColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.TextButton_4.TextScaled = true
+ScreenGui.TextButton_4.TextSize = 14.000
+ScreenGui.TextButton_4.TextWrapped = true
+
+ScreenGui.UIAspectRatioConstraint_42.Parent = ScreenGui.TextButton_4
+ScreenGui.UIAspectRatioConstraint_42.AspectRatio = 9.633
+
+ScreenGui.UITextSizeConstraint_20.Parent = ScreenGui.TextButton_4
+ScreenGui.UITextSizeConstraint_20.MaxTextSize = 14
+
+ScreenGui.TextLabel_14.Parent = ScreenGui.SliderBar_2
+ScreenGui.TextLabel_14.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ScreenGui.TextLabel_14.BackgroundTransparency = 1.000
+ScreenGui.TextLabel_14.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.TextLabel_14.BorderSizePixel = 0
+ScreenGui.TextLabel_14.Position = UDim2.new(-0.0207612459, 0, 0.255048633, 0)
+ScreenGui.TextLabel_14.Size = UDim2.new(0.265929818, 0, 0.46825394, 0)
+ScreenGui.TextLabel_14.ZIndex = 0
+ScreenGui.TextLabel_14.Font = Enum.Font.SourceSansBold
+ScreenGui.TextLabel_14.Text = "Aimbot"
+ScreenGui.TextLabel_14.TextColor3 = Color3.fromRGB(204, 204, 204)
+ScreenGui.TextLabel_14.TextScaled = true
+ScreenGui.TextLabel_14.TextSize = 14.000
+ScreenGui.TextLabel_14.TextWrapped = true
+
+ScreenGui.UIAspectRatioConstraint_43.Parent = ScreenGui.TextLabel_14
+ScreenGui.UIAspectRatioConstraint_43.AspectRatio = 5.471
+
+ScreenGui.UITextSizeConstraint_21.Parent = ScreenGui.TextLabel_14
+ScreenGui.UITextSizeConstraint_21.MaxTextSize = 14
+
+ScreenGui.UIAspectRatioConstraint_44.Parent = ScreenGui.SliderBar_2
+ScreenGui.UIAspectRatioConstraint_44.AspectRatio = 9.633
+
+ScreenGui.Frame_14.Parent = ScreenGui.MainFrame
+ScreenGui.Frame_14.BackgroundColor3 = Color3.fromRGB(79, 79, 79)
+ScreenGui.Frame_14.BackgroundTransparency = 0.350
 ScreenGui.Frame_14.BorderColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui.Frame_14.BorderSizePixel = 0
-ScreenGui.Frame_14.Position = UDim2.new(0.0907893926, 0, 0.23589389, 0)
-ScreenGui.Frame_14.Size = UDim2.new(0.81249994, 0, 0.183100507, 0)
-ScreenGui.Frame_14.ZIndex = 100
+ScreenGui.Frame_14.Position = UDim2.new(0.352091432, 0, 0.124968447, 0)
+ScreenGui.Frame_14.Size = UDim2.new(0.306951493, 0, 0.0706179067, 0)
 
-ScreenGui.UICorner_26.CornerRadius = UDim.new(0, 10)
-ScreenGui.UICorner_26.Parent = ScreenGui.Frame_14
+ScreenGui.UICorner_25.CornerRadius = UDim.new(1, 0)
+ScreenGui.UICorner_25.Parent = ScreenGui.Frame_14
 
-ScreenGui.UIAspectRatioConstraint_49.Parent = ScreenGui.Frame_14
-ScreenGui.UIAspectRatioConstraint_49.AspectRatio = 3.768
+ScreenGui.TextLabel_15.Parent = ScreenGui.Frame_14
+ScreenGui.TextLabel_15.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ScreenGui.TextLabel_15.BackgroundTransparency = 1.000
+ScreenGui.TextLabel_15.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.TextLabel_15.BorderSizePixel = 0
+ScreenGui.TextLabel_15.Position = UDim2.new(0.100000001, 0, 0.178570881, 0)
+ScreenGui.TextLabel_15.Size = UDim2.new(0.777777791, 0, 0.704339445, 0)
+ScreenGui.TextLabel_15.Font = Enum.Font.FredokaOne
+ScreenGui.TextLabel_15.Text = "‚öôÔ∏è Settings"
+ScreenGui.TextLabel_15.TextColor3 = Color3.fromRGB(255, 255, 255)
+ScreenGui.TextLabel_15.TextScaled = true
+ScreenGui.TextLabel_15.TextSize = 14.000
+ScreenGui.TextLabel_15.TextWrapped = true
 
-ScreenGui.Frame_15.Parent = ScreenGui.SettingsFrame
-ScreenGui.Frame_15.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.Frame_15.BackgroundTransparency = 0.500
+ScreenGui.UIAspectRatioConstraint_45.Parent = ScreenGui.TextLabel_15
+ScreenGui.UIAspectRatioConstraint_45.AspectRatio = 3.950
+
+ScreenGui.UIAspectRatioConstraint_46.Parent = ScreenGui.Frame_14
+ScreenGui.UIAspectRatioConstraint_46.AspectRatio = 3.214
+
+ScreenGui.Frame_15.Parent = ScreenGui.MainFrame
+ScreenGui.Frame_15.BackgroundColor3 = Color3.fromRGB(79, 79, 79)
+ScreenGui.Frame_15.BackgroundTransparency = 0.350
 ScreenGui.Frame_15.BorderColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui.Frame_15.BorderSizePixel = 0
-ScreenGui.Frame_15.Position = UDim2.new(0.0907893926, 0, 0.450977683, 0)
-ScreenGui.Frame_15.Size = UDim2.new(0.81249994, 0, 0.183100507, 0)
-ScreenGui.Frame_15.ZIndex = 100
+ScreenGui.Frame_15.Position = UDim2.new(0.0331026129, 0, 0.124968447, 0)
+ScreenGui.Frame_15.Size = UDim2.new(0.306951493, 0, 0.0706179067, 0)
 
-ScreenGui.UICorner_27.CornerRadius = UDim.new(0, 10)
-ScreenGui.UICorner_27.Parent = ScreenGui.Frame_15
+ScreenGui.UICorner_26.CornerRadius = UDim.new(1, 0)
+ScreenGui.UICorner_26.Parent = ScreenGui.Frame_15
 
-ScreenGui.UIAspectRatioConstraint_50.Parent = ScreenGui.Frame_15
-ScreenGui.UIAspectRatioConstraint_50.AspectRatio = 3.768
+ScreenGui.TextLabel_16.Parent = ScreenGui.Frame_15
+ScreenGui.TextLabel_16.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ScreenGui.TextLabel_16.BackgroundTransparency = 1.000
+ScreenGui.TextLabel_16.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.TextLabel_16.BorderSizePixel = 0
+ScreenGui.TextLabel_16.Position = UDim2.new(0.0777777806, 0, 0.178570881, 0)
+ScreenGui.TextLabel_16.Size = UDim2.new(0.777777791, 0, 0.704339445, 0)
+ScreenGui.TextLabel_16.Font = Enum.Font.FredokaOne
+ScreenGui.TextLabel_16.Text = " üè†Home"
+ScreenGui.TextLabel_16.TextColor3 = Color3.fromRGB(255, 255, 255)
+ScreenGui.TextLabel_16.TextScaled = true
+ScreenGui.TextLabel_16.TextSize = 14.000
+ScreenGui.TextLabel_16.TextWrapped = true
 
-ScreenGui.UIAspectRatioConstraint_51.Parent = ScreenGui.SettingsFrame
-ScreenGui.UIAspectRatioConstraint_51.AspectRatio = 0.849
+ScreenGui.UIAspectRatioConstraint_47.Parent = ScreenGui.TextLabel_16
+ScreenGui.UIAspectRatioConstraint_47.AspectRatio = 3.950
+
+ScreenGui.UIAspectRatioConstraint_48.Parent = ScreenGui.Frame_15
+ScreenGui.UIAspectRatioConstraint_48.AspectRatio = 3.214
 
 ScreenGui.Frame_16.Parent = ScreenGui.MainFrame
-ScreenGui.Frame_16.BackgroundColor3 = Color3.fromRGB(79, 79, 79)
-ScreenGui.Frame_16.BackgroundTransparency = 0.350
+ScreenGui.Frame_16.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
 ScreenGui.Frame_16.BorderColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui.Frame_16.BorderSizePixel = 0
-ScreenGui.Frame_16.Position = UDim2.new(0.0331026129, 0, 0.124968447, 0)
-ScreenGui.Frame_16.Size = UDim2.new(0.306951493, 0, 0.0706179067, 0)
+ScreenGui.Frame_16.Position = UDim2.new(0.0452097692, 0, 0.39327392, 0)
+ScreenGui.Frame_16.Size = UDim2.new(0.869695902, 0, 0.0832282454, 0)
 
-ScreenGui.UICorner_28.CornerRadius = UDim.new(1, 0)
-ScreenGui.UICorner_28.Parent = ScreenGui.Frame_16
+ScreenGui.UICorner_27.CornerRadius = UDim.new(0, 5)
+ScreenGui.UICorner_27.Parent = ScreenGui.Frame_16
 
-ScreenGui.TextLabel_19.Parent = ScreenGui.Frame_16
-ScreenGui.TextLabel_19.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.TextLabel_19.BackgroundTransparency = 1.000
-ScreenGui.TextLabel_19.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.TextLabel_19.BorderSizePixel = 0
-ScreenGui.TextLabel_19.Position = UDim2.new(0.0777777806, 0, 0.178570881, 0)
-ScreenGui.TextLabel_19.Size = UDim2.new(0.777777791, 0, 0.704339445, 0)
-ScreenGui.TextLabel_19.Font = Enum.Font.FredokaOne
-ScreenGui.TextLabel_19.Text = " ??Home"
-ScreenGui.TextLabel_19.TextColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.TextLabel_19.TextScaled = true
-ScreenGui.TextLabel_19.TextSize = 14.000
-ScreenGui.TextLabel_19.TextWrapped = true
+ScreenGui.TextLabel_17.Parent = ScreenGui.Frame_16
+ScreenGui.TextLabel_17.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ScreenGui.TextLabel_17.BackgroundTransparency = 1.000
+ScreenGui.TextLabel_17.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.TextLabel_17.BorderSizePixel = 0
+ScreenGui.TextLabel_17.Position = UDim2.new(0.0138408309, 0, 0.261109233, 0)
+ScreenGui.TextLabel_17.Size = UDim2.new(0.265929818, 0, 0.46825394, 0)
+ScreenGui.TextLabel_17.Font = Enum.Font.SourceSansBold
+ScreenGui.TextLabel_17.Text = "WalkSpeed"
+ScreenGui.TextLabel_17.TextColor3 = Color3.fromRGB(204, 204, 204)
+ScreenGui.TextLabel_17.TextScaled = true
+ScreenGui.TextLabel_17.TextSize = 14.000
+ScreenGui.TextLabel_17.TextWrapped = true
 
-ScreenGui.UIAspectRatioConstraint_52.Parent = ScreenGui.TextLabel_19
-ScreenGui.UIAspectRatioConstraint_52.AspectRatio = 3.950
+ScreenGui.UIAspectRatioConstraint_49.Parent = ScreenGui.TextLabel_17
+ScreenGui.UIAspectRatioConstraint_49.AspectRatio = 4.974
 
-ScreenGui.UIAspectRatioConstraint_53.Parent = ScreenGui.Frame_16
-ScreenGui.UIAspectRatioConstraint_53.AspectRatio = 3.214
-
-ScreenGui.Frame_17.Parent = ScreenGui.MainFrame
-ScreenGui.Frame_17.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
-ScreenGui.Frame_17.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.Frame_17.BorderSizePixel = 0
-ScreenGui.Frame_17.Position = UDim2.new(0.0452097692, 0, 0.39327392, 0)
-ScreenGui.Frame_17.Size = UDim2.new(0.869695902, 0, 0.0832282454, 0)
-
-ScreenGui.UICorner_29.CornerRadius = UDim.new(0, 5)
-ScreenGui.UICorner_29.Parent = ScreenGui.Frame_17
-
-ScreenGui.TextLabel_20.Parent = ScreenGui.Frame_17
-ScreenGui.TextLabel_20.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.TextLabel_20.BackgroundTransparency = 1.000
-ScreenGui.TextLabel_20.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.TextLabel_20.BorderSizePixel = 0
-ScreenGui.TextLabel_20.Position = UDim2.new(0.0138408309, 0, 0.261109233, 0)
-ScreenGui.TextLabel_20.Size = UDim2.new(0.265929818, 0, 0.46825394, 0)
-ScreenGui.TextLabel_20.Font = Enum.Font.SourceSansBold
-ScreenGui.TextLabel_20.Text = "WalkSpeed"
-ScreenGui.TextLabel_20.TextColor3 = Color3.fromRGB(204, 204, 204)
-ScreenGui.TextLabel_20.TextScaled = true
-ScreenGui.TextLabel_20.TextSize = 14.000
-ScreenGui.TextLabel_20.TextWrapped = true
-
-ScreenGui.UIAspectRatioConstraint_54.Parent = ScreenGui.TextLabel_20
-ScreenGui.UIAspectRatioConstraint_54.AspectRatio = 4.974
-
-ScreenGui.UITextSizeConstraint_26.Parent = ScreenGui.TextLabel_20
-ScreenGui.UITextSizeConstraint_26.MaxTextSize = 15
+ScreenGui.UITextSizeConstraint_22.Parent = ScreenGui.TextLabel_17
+ScreenGui.UITextSizeConstraint_22.MaxTextSize = 15
 
 ScreenGui.SliderFrame_4.Name = "SliderFrame"
-ScreenGui.SliderFrame_4.Parent = ScreenGui.Frame_17
+ScreenGui.SliderFrame_4.Parent = ScreenGui.Frame_16
 ScreenGui.SliderFrame_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 ScreenGui.SliderFrame_4.BorderColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui.SliderFrame_4.BorderSizePixel = 0
 ScreenGui.SliderFrame_4.Position = UDim2.new(0.52062428, 0, 0.10959325, 0)
 ScreenGui.SliderFrame_4.Size = UDim2.new(0.460207611, 0, 0.727272749, 0)
 
-ScreenGui.UICorner_30.CornerRadius = UDim.new(0, 5)
-ScreenGui.UICorner_30.Parent = ScreenGui.SliderFrame_4
+ScreenGui.UICorner_28.CornerRadius = UDim.new(0, 5)
+ScreenGui.UICorner_28.Parent = ScreenGui.SliderFrame_4
 
 ScreenGui.UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(23, 47, 70)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(31, 63, 91))}
 ScreenGui.UIGradient.Rotation = -83
 ScreenGui.UIGradient.Parent = ScreenGui.SliderFrame_4
 
-ScreenGui.TextLabel_21.Parent = ScreenGui.SliderFrame_4
-ScreenGui.TextLabel_21.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.TextLabel_21.BackgroundTransparency = 1.000
-ScreenGui.TextLabel_21.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ScreenGui.TextLabel_21.BorderSizePixel = 0
-ScreenGui.TextLabel_21.Position = UDim2.new(-0.00751879718, 0, 0.166667938, 0)
-ScreenGui.TextLabel_21.Size = UDim2.new(0.557943404, 0, 0.643849671, 0)
-ScreenGui.TextLabel_21.ZIndex = 100
-ScreenGui.TextLabel_21.Font = Enum.Font.SourceSans
-ScreenGui.TextLabel_21.Text = "0 Speed"
-ScreenGui.TextLabel_21.TextColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.TextLabel_21.TextScaled = true
-ScreenGui.TextLabel_21.TextSize = 14.000
-ScreenGui.TextLabel_21.TextWrapped = true
+ScreenGui.TextLabel_18.Parent = ScreenGui.SliderFrame_4
+ScreenGui.TextLabel_18.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ScreenGui.TextLabel_18.BackgroundTransparency = 1.000
+ScreenGui.TextLabel_18.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.TextLabel_18.BorderSizePixel = 0
+ScreenGui.TextLabel_18.Position = UDim2.new(-0.00751879718, 0, 0.166667938, 0)
+ScreenGui.TextLabel_18.Size = UDim2.new(0.557943404, 0, 0.643849671, 0)
+ScreenGui.TextLabel_18.ZIndex = 100
+ScreenGui.TextLabel_18.Font = Enum.Font.SourceSans
+ScreenGui.TextLabel_18.Text = "0 Speed"
+ScreenGui.TextLabel_18.TextColor3 = Color3.fromRGB(255, 255, 255)
+ScreenGui.TextLabel_18.TextScaled = true
+ScreenGui.TextLabel_18.TextSize = 14.000
+ScreenGui.TextLabel_18.TextWrapped = true
 
-ScreenGui.UIAspectRatioConstraint_55.Parent = ScreenGui.TextLabel_21
-ScreenGui.UIAspectRatioConstraint_55.AspectRatio = 4.802
+ScreenGui.UIAspectRatioConstraint_50.Parent = ScreenGui.TextLabel_18
+ScreenGui.UIAspectRatioConstraint_50.AspectRatio = 4.802
 
-ScreenGui.UITextSizeConstraint_27.Parent = ScreenGui.TextLabel_21
-ScreenGui.UITextSizeConstraint_27.MaxTextSize = 15
+ScreenGui.UITextSizeConstraint_23.Parent = ScreenGui.TextLabel_18
+ScreenGui.UITextSizeConstraint_23.MaxTextSize = 15
 
 ScreenGui.SliderKnob_4.Name = "SliderKnob"
 ScreenGui.SliderKnob_4.Parent = ScreenGui.SliderFrame_4
@@ -1253,26 +1151,122 @@ ScreenGui.SliderKnob_4.TextScaled = true
 ScreenGui.SliderKnob_4.TextSize = 14.000
 ScreenGui.SliderKnob_4.TextWrapped = true
 
-ScreenGui.UICorner_31.CornerRadius = UDim.new(0, 5)
-ScreenGui.UICorner_31.Parent = ScreenGui.SliderKnob_4
+ScreenGui.UICorner_29.CornerRadius = UDim.new(0, 5)
+ScreenGui.UICorner_29.Parent = ScreenGui.SliderKnob_4
 
 ScreenGui.UIGradient_2.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(38, 75, 113)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(64, 127, 191))}
 ScreenGui.UIGradient_2.Rotation = -83
 ScreenGui.UIGradient_2.Parent = ScreenGui.SliderKnob_4
 
-ScreenGui.UIAspectRatioConstraint_56.Parent = ScreenGui.SliderKnob_4
-ScreenGui.UIAspectRatioConstraint_56.AspectRatio = 0.500
+ScreenGui.UIAspectRatioConstraint_51.Parent = ScreenGui.SliderKnob_4
+ScreenGui.UIAspectRatioConstraint_51.AspectRatio = 0.500
 
-ScreenGui.UITextSizeConstraint_28.Parent = ScreenGui.SliderKnob_4
-ScreenGui.UITextSizeConstraint_28.MaxTextSize = 14
+ScreenGui.UITextSizeConstraint_24.Parent = ScreenGui.SliderKnob_4
+ScreenGui.UITextSizeConstraint_24.MaxTextSize = 14
 
-ScreenGui.TextButton_6.Parent = ScreenGui.SliderFrame_4
+ScreenGui.TextButton_5.Parent = ScreenGui.SliderFrame_4
+ScreenGui.TextButton_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ScreenGui.TextButton_5.BackgroundTransparency = 1.000
+ScreenGui.TextButton_5.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.TextButton_5.BorderSizePixel = 0
+ScreenGui.TextButton_5.Position = UDim2.new(-1.11624396, 0, 0.0259997044, 0)
+ScreenGui.TextButton_5.Size = UDim2.new(1.10526311, 0, 1.16666663, 0)
+ScreenGui.TextButton_5.Font = Enum.Font.SourceSans
+ScreenGui.TextButton_5.Text = ""
+ScreenGui.TextButton_5.TextColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.TextButton_5.TextScaled = true
+ScreenGui.TextButton_5.TextSize = 14.000
+ScreenGui.TextButton_5.TextWrapped = true
+
+ScreenGui.UIAspectRatioConstraint_52.Parent = ScreenGui.TextButton_5
+ScreenGui.UIAspectRatioConstraint_52.AspectRatio = 5.250
+
+ScreenGui.UITextSizeConstraint_25.Parent = ScreenGui.TextButton_5
+ScreenGui.UITextSizeConstraint_25.MaxTextSize = 14
+
+ScreenGui.UIAspectRatioConstraint_53.Parent = ScreenGui.SliderFrame_4
+ScreenGui.UIAspectRatioConstraint_53.AspectRatio = 5.542
+
+ScreenGui.UIAspectRatioConstraint_54.Parent = ScreenGui.Frame_16
+ScreenGui.UIAspectRatioConstraint_54.AspectRatio = 8.758
+
+ScreenGui.TextLabel_19.Parent = ScreenGui.MainFrame
+ScreenGui.TextLabel_19.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ScreenGui.TextLabel_19.BackgroundTransparency = 1.000
+ScreenGui.TextLabel_19.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.TextLabel_19.BorderSizePixel = 0
+ScreenGui.TextLabel_19.Position = UDim2.new(-0.256064624, 0, 0.152987123, 0)
+ScreenGui.TextLabel_19.Size = UDim2.new(0.659042954, 0, 0.174022704, 0)
+ScreenGui.TextLabel_19.Font = Enum.Font.SourceSans
+ScreenGui.TextLabel_19.Text = "Main"
+ScreenGui.TextLabel_19.TextColor3 = Color3.fromRGB(200, 200, 200)
+ScreenGui.TextLabel_19.TextScaled = true
+ScreenGui.TextLabel_19.TextSize = 15.000
+ScreenGui.TextLabel_19.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
+ScreenGui.TextLabel_19.TextWrapped = true
+
+ScreenGui.UIAspectRatioConstraint_55.Parent = ScreenGui.TextLabel_19
+ScreenGui.UIAspectRatioConstraint_55.AspectRatio = 3.174
+
+ScreenGui.UITextSizeConstraint_26.Parent = ScreenGui.TextLabel_19
+ScreenGui.UITextSizeConstraint_26.MaxTextSize = 15
+
+ScreenGui.Frame_17.Parent = ScreenGui.MainFrame
+ScreenGui.Frame_17.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+ScreenGui.Frame_17.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.Frame_17.BorderSizePixel = 0
+ScreenGui.Frame_17.Position = UDim2.new(0.0482190847, 0, 0.282141984, 0)
+ScreenGui.Frame_17.Size = UDim2.new(0.869695902, 0, 0.0756620392, 0)
+
+ScreenGui.UICorner_30.CornerRadius = UDim.new(0, 5)
+ScreenGui.UICorner_30.Parent = ScreenGui.Frame_17
+
+ScreenGui.TextLabel_20.Parent = ScreenGui.Frame_17
+ScreenGui.TextLabel_20.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ScreenGui.TextLabel_20.BackgroundTransparency = 1.000
+ScreenGui.TextLabel_20.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.TextLabel_20.BorderSizePixel = 0
+ScreenGui.TextLabel_20.Position = UDim2.new(0.0138408309, 0, 0.0666646287, 0)
+ScreenGui.TextLabel_20.Size = UDim2.new(0.265929818, 0, 0.857142568, 0)
+ScreenGui.TextLabel_20.Font = Enum.Font.SourceSansBold
+ScreenGui.TextLabel_20.Text = "Infinity Jump"
+ScreenGui.TextLabel_20.TextColor3 = Color3.fromRGB(204, 204, 204)
+ScreenGui.TextLabel_20.TextScaled = true
+ScreenGui.TextLabel_20.TextSize = 14.000
+ScreenGui.TextLabel_20.TextWrapped = true
+
+ScreenGui.UIAspectRatioConstraint_56.Parent = ScreenGui.TextLabel_20
+ScreenGui.UIAspectRatioConstraint_56.AspectRatio = 2.989
+
+ScreenGui.UITextSizeConstraint_27.Parent = ScreenGui.TextLabel_20
+ScreenGui.UITextSizeConstraint_27.MaxTextSize = 14
+
+ScreenGui.TextLabel_21.Parent = ScreenGui.Frame_17
+ScreenGui.TextLabel_21.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ScreenGui.TextLabel_21.BackgroundTransparency = 1.000
+ScreenGui.TextLabel_21.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.TextLabel_21.BorderSizePixel = 0
+ScreenGui.TextLabel_21.Position = UDim2.new(0.737024248, 0, 0.199997962, 0)
+ScreenGui.TextLabel_21.Size = UDim2.new(0.287197292, 0, 0.590476096, 0)
+ScreenGui.TextLabel_21.Font = Enum.Font.SourceSansBold
+ScreenGui.TextLabel_21.Text = "button"
+ScreenGui.TextLabel_21.TextColor3 = Color3.fromRGB(72, 72, 72)
+ScreenGui.TextLabel_21.TextScaled = true
+ScreenGui.TextLabel_21.TextSize = 14.000
+ScreenGui.TextLabel_21.TextWrapped = true
+
+ScreenGui.UIAspectRatioConstraint_57.Parent = ScreenGui.TextLabel_21
+ScreenGui.UIAspectRatioConstraint_57.AspectRatio = 4.685
+
+ScreenGui.UITextSizeConstraint_28.Parent = ScreenGui.TextLabel_21
+ScreenGui.UITextSizeConstraint_28.MaxTextSize = 17
+
+ScreenGui.TextButton_6.Parent = ScreenGui.Frame_17
 ScreenGui.TextButton_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 ScreenGui.TextButton_6.BackgroundTransparency = 1.000
 ScreenGui.TextButton_6.BorderColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui.TextButton_6.BorderSizePixel = 0
-ScreenGui.TextButton_6.Position = UDim2.new(-1.11624396, 0, 0.0259997044, 0)
-ScreenGui.TextButton_6.Size = UDim2.new(1.10526311, 0, 1.16666663, 0)
+ScreenGui.TextButton_6.Size = UDim2.new(1, 0, 1, 0)
 ScreenGui.TextButton_6.Font = Enum.Font.SourceSans
 ScreenGui.TextButton_6.Text = ""
 ScreenGui.TextButton_6.TextColor3 = Color3.fromRGB(0, 0, 0)
@@ -1280,48 +1274,54 @@ ScreenGui.TextButton_6.TextScaled = true
 ScreenGui.TextButton_6.TextSize = 14.000
 ScreenGui.TextButton_6.TextWrapped = true
 
-ScreenGui.UIAspectRatioConstraint_57.Parent = ScreenGui.TextButton_6
-ScreenGui.UIAspectRatioConstraint_57.AspectRatio = 5.250
+ScreenGui.UIAspectRatioConstraint_58.Parent = ScreenGui.TextButton_6
+ScreenGui.UIAspectRatioConstraint_58.AspectRatio = 9.633
 
 ScreenGui.UITextSizeConstraint_29.Parent = ScreenGui.TextButton_6
 ScreenGui.UITextSizeConstraint_29.MaxTextSize = 14
 
-ScreenGui.UIAspectRatioConstraint_58.Parent = ScreenGui.SliderFrame_4
-ScreenGui.UIAspectRatioConstraint_58.AspectRatio = 5.542
-
 ScreenGui.UIAspectRatioConstraint_59.Parent = ScreenGui.Frame_17
-ScreenGui.UIAspectRatioConstraint_59.AspectRatio = 8.758
+ScreenGui.UIAspectRatioConstraint_59.AspectRatio = 9.633
 
-ScreenGui.Frame_18.Parent = ScreenGui.MainFrame
-ScreenGui.Frame_18.BackgroundColor3 = Color3.fromRGB(79, 79, 79)
-ScreenGui.Frame_18.BackgroundTransparency = 0.350
+ScreenGui.UIAspectRatioConstraint_60.Parent = ScreenGui.MainFrame
+ScreenGui.UIAspectRatioConstraint_60.AspectRatio = 0.838
+
+ScreenGui.FrameCoreGui.Name = "FrameCoreGui"
+ScreenGui.FrameCoreGui.Parent = ScreenGui.MainFrame
+ScreenGui.FrameCoreGui.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+ScreenGui.FrameCoreGui.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScreenGui.FrameCoreGui.BorderSizePixel = 0
+ScreenGui.FrameCoreGui.Position = UDim2.new(1.0261811, 0, 0.0947036296, 0)
+ScreenGui.FrameCoreGui.Size = UDim2.new(0, 303, 0, 358)
+ScreenGui.FrameCoreGui.Visible = false
+
+ScreenGui.Frame_18.Parent = ScreenGui.FrameCoreGui
+ScreenGui.Frame_18.AnchorPoint = Vector2.new(0.5, 0.5)
+ScreenGui.Frame_18.BackgroundColor3 = Color3.fromRGB(81, 81, 81)
 ScreenGui.Frame_18.BorderColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui.Frame_18.BorderSizePixel = 0
-ScreenGui.Frame_18.Position = UDim2.new(0.352091432, 0, 0.124968447, 0)
-ScreenGui.Frame_18.Size = UDim2.new(0.306951493, 0, 0.0706179067, 0)
+ScreenGui.Frame_18.Position = UDim2.new(0.499094754, 0, 0.102599971, 0)
+ScreenGui.Frame_18.Size = UDim2.new(1.00181019, 0, 0.0182645991, 0)
 
-ScreenGui.UICorner_32.CornerRadius = UDim.new(1, 0)
-ScreenGui.UICorner_32.Parent = ScreenGui.Frame_18
+ScreenGui.UICorner_31.CornerRadius = UDim.new(0, 5)
+ScreenGui.UICorner_31.Parent = ScreenGui.Frame_18
 
-ScreenGui.TextLabel_22.Parent = ScreenGui.Frame_18
+ScreenGui.UIAspectRatioConstraint_61.Parent = ScreenGui.Frame_18
+ScreenGui.UIAspectRatioConstraint_61.AspectRatio = 554.887
+
+ScreenGui.UICorner_32.CornerRadius = UDim.new(0, 10)
+ScreenGui.UICorner_32.Parent = ScreenGui.FrameCoreGui
+
+ScreenGui.TextLabel_22.Parent = ScreenGui.FrameCoreGui
 ScreenGui.TextLabel_22.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 ScreenGui.TextLabel_22.BackgroundTransparency = 1.000
 ScreenGui.TextLabel_22.BorderColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui.TextLabel_22.BorderSizePixel = 0
-ScreenGui.TextLabel_22.Position = UDim2.new(0.100000001, 0, 0.178570881, 0)
-ScreenGui.TextLabel_22.Size = UDim2.new(0.777777791, 0, 0.704339445, 0)
+ScreenGui.TextLabel_22.Size = UDim2.new(0, 303, 0, 36)
 ScreenGui.TextLabel_22.Font = Enum.Font.FredokaOne
-ScreenGui.TextLabel_22.Text = "?? Settings"
+ScreenGui.TextLabel_22.Text = "CoreGui"
 ScreenGui.TextLabel_22.TextColor3 = Color3.fromRGB(255, 255, 255)
-ScreenGui.TextLabel_22.TextScaled = true
-ScreenGui.TextLabel_22.TextSize = 14.000
-ScreenGui.TextLabel_22.TextWrapped = true
-
-ScreenGui.UIAspectRatioConstraint_60.Parent = ScreenGui.TextLabel_22
-ScreenGui.UIAspectRatioConstraint_60.AspectRatio = 3.950
-
-ScreenGui.UIAspectRatioConstraint_61.Parent = ScreenGui.Frame_18
-ScreenGui.UIAspectRatioConstraint_61.AspectRatio = 3.214
+ScreenGui.TextLabel_22.TextSize = 28.000
 
 ScreenGui.OpenButton.Name = "OpenButton"
 ScreenGui.OpenButton.Parent = ScreenGui.ScreenGui
@@ -1509,7 +1509,7 @@ ScreenGui.UIAspectRatioConstraint_71.AspectRatio = 2.776
 
 -- Scripts:
 
-local function BBAH_fake_script() -- ScreenGui.ScreenGui.LocalScript 
+local function VKXIVTQ_fake_script() -- ScreenGui.ScreenGui.LocalScript 
 	local script = Instance.new('LocalScript', ScreenGui.ScreenGui)
 
 	local screenGui = script.Parent
@@ -1522,7 +1522,7 @@ local function BBAH_fake_script() -- ScreenGui.ScreenGui.LocalScript
 	-- ZAPISZ ORYGINALNY ROZMIAR
 	local originalSize = mainFrame.Size
 	
-	-- Na start przycisk OtwÛrz ukryty
+	-- Na start przycisk Otw√≥rz ukryty
 	openButton.Visible = false
 	
 	-- Funkcja animacji zamykania
@@ -1539,7 +1539,7 @@ local function BBAH_fake_script() -- ScreenGui.ScreenGui.LocalScript
 		mainFrame.Visible = false
 		openButton.Visible = true
 	
-		-- Przywracamy rozmiar do nastÍpnego otwarcia
+		-- Przywracamy rozmiar do nastƒôpnego otwarcia
 		mainFrame.Size = originalSize
 	end
 	
@@ -1558,19 +1558,19 @@ local function BBAH_fake_script() -- ScreenGui.ScreenGui.LocalScript
 		openButton.Visible = false
 	end
 	
-	-- KlikniÍcia
+	-- Klikniƒôcia
 	closeButton.MouseButton1Click:Connect(closeGui)
 	openButton.MouseButton1Click:Connect(openGui)
 	
 end
-coroutine.wrap(BBAH_fake_script)()
-local function IZYAL_fake_script() -- ScreenGui.ScreenGui.LocalScript 
+coroutine.wrap(VKXIVTQ_fake_script)()
+local function MUGPLMA_fake_script() -- ScreenGui.ScreenGui.LocalScript 
 	local script = Instance.new('LocalScript', ScreenGui.ScreenGui)
 
 	local UIS = game:GetService("UserInputService")
 	
 	local mainFrame = script.Parent:WaitForChild("MainFrame")
-	local dragArea = mainFrame:WaitForChild("FrameLayout") -- ten twÛj frame w úrodku
+	local dragArea = mainFrame:WaitForChild("FrameLayout") -- ten tw√≥j frame w ≈õrodku
 	
 	local dragging = false
 	local dragStart
@@ -1606,8 +1606,8 @@ local function IZYAL_fake_script() -- ScreenGui.ScreenGui.LocalScript
 	end)
 	
 end
-coroutine.wrap(IZYAL_fake_script)()
-local function YJEYD_fake_script() -- ScreenGui.ScreenGui.LocalScript 
+coroutine.wrap(MUGPLMA_fake_script)()
+local function ZXMPNQM_fake_script() -- ScreenGui.ScreenGui.LocalScript 
 	local script = Instance.new('LocalScript', ScreenGui.ScreenGui)
 
 	local mainFrame = script.Parent:WaitForChild("MainFrame")
@@ -1627,8 +1627,8 @@ local function YJEYD_fake_script() -- ScreenGui.ScreenGui.LocalScript
 	
 	
 end
-coroutine.wrap(YJEYD_fake_script)()
-local function DYEIYUQ_fake_script() -- ScreenGui.MainFrame.LocalScript 
+coroutine.wrap(ZXMPNQM_fake_script)()
+local function QLZSI_fake_script() -- ScreenGui.MainFrame.LocalScript 
 	local script = Instance.new('LocalScript', ScreenGui.MainFrame)
 
 	-- Pobieramy przycisk i frame
@@ -1636,20 +1636,20 @@ local function DYEIYUQ_fake_script() -- ScreenGui.MainFrame.LocalScript
 	local settingsButton = mainFrame:WaitForChild("SettingsOpen")
 	local settingsFrame = mainFrame:WaitForChild("SettingsFrame")
 	
-	-- Upewniamy siÍ, øe przycisk jest przezroczysty
+	-- Upewniamy siƒô, ≈ºe przycisk jest przezroczysty
 	settingsButton.BackgroundTransparency = 1
 	
-	-- Na poczπtku SettingsFrame jest ukryty
+	-- Na poczƒÖtku SettingsFrame jest ukryty
 	settingsFrame.Visible = false
 	
-	-- KlikniÍcie przycisku otwiera / zamyka SettingsFrame
+	-- Klikniƒôcie przycisku otwiera / zamyka SettingsFrame
 	settingsButton.MouseButton1Click:Connect(function()
 		settingsFrame.Visible = not settingsFrame.Visible
 	end)
 	
 end
-coroutine.wrap(DYEIYUQ_fake_script)()
-local function FLYMCOB_fake_script() -- ScreenGui.TextButton.LocalScript 
+coroutine.wrap(QLZSI_fake_script)()
+local function UQADPX_fake_script() -- ScreenGui.TextButton.LocalScript 
 	local script = Instance.new('LocalScript', ScreenGui.TextButton)
 
 	local Players = game:GetService("Players")
@@ -1663,16 +1663,16 @@ local function FLYMCOB_fake_script() -- ScreenGui.TextButton.LocalScript
 	
 	button.MouseButton1Click:Connect(function()
 		if not activated then
-			-- PowiÍkszamy HumanoidRootPart od razu o 40 w kaødej osi
+			-- Powiƒôkszamy HumanoidRootPart od razu o 40 w ka≈ºdej osi
 			hrp.Size = hrp.Size + Vector3.new(40, 40, 40)
-			print("Hitbox powiÍkszony o 40! Aktualny rozmiar:", hrp.Size)
+			print("Hitbox powiƒôkszony o 40! Aktualny rozmiar:", hrp.Size)
 			activated = true
 		end
 	end)
 	
 end
-coroutine.wrap(FLYMCOB_fake_script)()
-local function SBLD_fake_script() -- ScreenGui.CloseButton.Tween 
+coroutine.wrap(UQADPX_fake_script)()
+local function USXOVZ_fake_script() -- ScreenGui.CloseButton.Tween 
 	local script = Instance.new('LocalScript', ScreenGui.CloseButton)
 
 	--// This is a Rotate on hover effect, similar to some simulator games.
@@ -1713,21 +1713,87 @@ local function SBLD_fake_script() -- ScreenGui.CloseButton.Tween
 		end)
 	end)
 end
-coroutine.wrap(SBLD_fake_script)()
-local function EKTLVCH_fake_script() -- ScreenGui.TextButton_2.LocalScript 
-	local script = Instance.new('LocalScript', ScreenGui.TextButton_2)
+coroutine.wrap(USXOVZ_fake_script)()
+local function IRQSW_fake_script() -- ScreenGui.SliderKnob.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui.SliderKnob)
 
-	y
+	local knob = script.Parent
+	local slider = knob.Parent  -- pasek
+	local dragging = false
+	
+	-- Funkcja startu przeciƒÖgania
+	knob.InputBegan:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 then
+			dragging = true
+		end
+	end)
+	
+	-- Funkcja ko≈Ñca przeciƒÖgania
+	knob.InputEnded:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 then
+			dragging = false
+		end
+	end)
+	
+	-- Funkcja przesuwania
+	game:GetService("UserInputService").InputChanged:Connect(function(input)
+		if dragging and input.UserInputType == Enum.UserInputType.MouseMovement then
+			local mouseX = input.Position.X
+			local sliderPos = slider.AbsolutePosition.X
+			local sliderSize = slider.AbsoluteSize.X
+	
+			-- Obliczamy nowƒÖ pozycjƒô kropki w granicach paska
+			local newX = math.clamp(mouseX - sliderPos, 0, sliderSize)
+			knob.Position = UDim2.new(0, newX, knob.Position.Y.Scale, knob.Position.Y.Offset)
+		end
+	end)
+	
 end
-coroutine.wrap(EKTLVCH_fake_script)()
-local function CLCH_fake_script() -- ScreenGui.TextButton_3.LocalScript 
-	local script = Instance.new('LocalScript', ScreenGui.TextButton_3)
+coroutine.wrap(IRQSW_fake_script)()
+local function LQGISL_fake_script() -- ScreenGui.SliderKnob_3.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui.SliderKnob_3)
+
+	local knob = script.Parent
+	local slider = knob.Parent  -- pasek
+	local dragging = false
+	
+	-- Funkcja startu przeciƒÖgania
+	knob.InputBegan:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 then
+			dragging = true
+		end
+	end)
+	
+	-- Funkcja ko≈Ñca przeciƒÖgania
+	knob.InputEnded:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 then
+			dragging = false
+		end
+	end)
+	
+	-- Funkcja przesuwania
+	game:GetService("UserInputService").InputChanged:Connect(function(input)
+		if dragging and input.UserInputType == Enum.UserInputType.MouseMovement then
+			local mouseX = input.Position.X
+			local sliderPos = slider.AbsolutePosition.X
+			local sliderSize = slider.AbsoluteSize.X
+	
+			-- Obliczamy nowƒÖ pozycjƒô kropki w granicach paska
+			local newX = math.clamp(mouseX - sliderPos, 0, sliderSize)
+			knob.Position = UDim2.new(0, newX, knob.Position.Y.Scale, knob.Position.Y.Offset)
+		end
+	end)
+	
+end
+coroutine.wrap(LQGISL_fake_script)()
+local function ZWEBEN_fake_script() -- ScreenGui.TextButton_4.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui.TextButton_4)
 
 	-- Lokalny skrypt w TextButton
 	local textButton = script.Parent -- TextButton
 	local mainFrame = script.Parent.Parent.Parent -- MainFrame
 	
-	-- Funkcja tworzπca aimbot GUI i logikÍ
+	-- Funkcja tworzƒÖca aimbot GUI i logikƒô
 	local function createAimbot()
 		local Players = game:GetService("Players")
 		local RunService = game:GetService("RunService")
@@ -1735,9 +1801,9 @@ local function CLCH_fake_script() -- ScreenGui.TextButton_3.LocalScript
 		local camera = workspace.CurrentCamera
 	
 		-- ====== USTAWIENIA ======
-		local FOV_RADIUS = 150 -- wielkoúÊ kÛ≥ka
+		local FOV_RADIUS = 150 -- wielko≈õƒá k√≥≈Çka
 	
-		-- ====== GUI K”£KA ======
+		-- ====== GUI K√ì≈ÅKA ======
 		local gui = Instance.new("ScreenGui")
 		gui.Parent = player:WaitForChild("PlayerGui")
 	
@@ -1786,84 +1852,12 @@ local function CLCH_fake_script() -- ScreenGui.TextButton_3.LocalScript
 		end)
 	end
 	
-	-- KlikniÍcie TextButton uruchamia aimbota
+	-- Klikniƒôcie TextButton uruchamia aimbota
 	textButton.MouseButton1Click:Connect(createAimbot)
 	
 end
-coroutine.wrap(CLCH_fake_script)()
-local function XJSUFP_fake_script() -- ScreenGui.SliderKnob.LocalScript 
-	local script = Instance.new('LocalScript', ScreenGui.SliderKnob)
-
-	local knob = script.Parent
-	local slider = knob.Parent  -- pasek
-	local dragging = false
-	
-	-- Funkcja startu przeciπgania
-	knob.InputBegan:Connect(function(input)
-		if input.UserInputType == Enum.UserInputType.MouseButton1 then
-			dragging = true
-		end
-	end)
-	
-	-- Funkcja koÒca przeciπgania
-	knob.InputEnded:Connect(function(input)
-		if input.UserInputType == Enum.UserInputType.MouseButton1 then
-			dragging = false
-		end
-	end)
-	
-	-- Funkcja przesuwania
-	game:GetService("UserInputService").InputChanged:Connect(function(input)
-		if dragging and input.UserInputType == Enum.UserInputType.MouseMovement then
-			local mouseX = input.Position.X
-			local sliderPos = slider.AbsolutePosition.X
-			local sliderSize = slider.AbsoluteSize.X
-	
-			-- Obliczamy nowπ pozycjÍ kropki w granicach paska
-			local newX = math.clamp(mouseX - sliderPos, 0, sliderSize)
-			knob.Position = UDim2.new(0, newX, knob.Position.Y.Scale, knob.Position.Y.Offset)
-		end
-	end)
-	
-end
-coroutine.wrap(XJSUFP_fake_script)()
-local function GHOVWSZ_fake_script() -- ScreenGui.SliderKnob_3.LocalScript 
-	local script = Instance.new('LocalScript', ScreenGui.SliderKnob_3)
-
-	local knob = script.Parent
-	local slider = knob.Parent  -- pasek
-	local dragging = false
-	
-	-- Funkcja startu przeciπgania
-	knob.InputBegan:Connect(function(input)
-		if input.UserInputType == Enum.UserInputType.MouseButton1 then
-			dragging = true
-		end
-	end)
-	
-	-- Funkcja koÒca przeciπgania
-	knob.InputEnded:Connect(function(input)
-		if input.UserInputType == Enum.UserInputType.MouseButton1 then
-			dragging = false
-		end
-	end)
-	
-	-- Funkcja przesuwania
-	game:GetService("UserInputService").InputChanged:Connect(function(input)
-		if dragging and input.UserInputType == Enum.UserInputType.MouseMovement then
-			local mouseX = input.Position.X
-			local sliderPos = slider.AbsolutePosition.X
-			local sliderSize = slider.AbsoluteSize.X
-	
-			-- Obliczamy nowπ pozycjÍ kropki w granicach paska
-			local newX = math.clamp(mouseX - sliderPos, 0, sliderSize)
-			knob.Position = UDim2.new(0, newX, knob.Position.Y.Scale, knob.Position.Y.Offset)
-		end
-	end)
-	
-end
-coroutine.wrap(GHOVWSZ_fake_script)()
-local function OBBL_fake_script() -- ScreenGui.SliderKnob_4.LocalScript 
+coroutine.wrap(ZWEBEN_fake_script)()
+local function HGKCMW_fake_script() -- ScreenGui.SliderKnob_4.LocalScript 
 	local script = Instance.new('LocalScript', ScreenGui.SliderKnob_4)
 
 	local knob = script.Parent
@@ -1876,11 +1870,11 @@ local function OBBL_fake_script() -- ScreenGui.SliderKnob_4.LocalScript
 		local framePos = frame.AbsolutePosition.X
 		local frameWidth = frame.AbsoluteSize.X
 	
-		-- Oblicz szerokoúÊ knob'a wzglÍdem pozycji myszy
+		-- Oblicz szeroko≈õƒá knob'a wzglƒôdem pozycji myszy
 		local newWidth = math.clamp(mouseX - framePos, 0, frameWidth)
 		knob.Size = UDim2.new(0, newWidth, 0, knob.Size.Y.Offset)
 	
-		-- WartoúÊ suwaka od 0 do 1
+		-- Warto≈õƒá suwaka od 0 do 1
 		local value = newWidth / frameWidth
 		print("Slider value:", value)
 	end
@@ -1904,9 +1898,9 @@ local function OBBL_fake_script() -- ScreenGui.SliderKnob_4.LocalScript
 	end)
 	
 end
-coroutine.wrap(OBBL_fake_script)()
-local function FFYGXZM_fake_script() -- ScreenGui.TextButton_6.LocalScript 
-	local script = Instance.new('LocalScript', ScreenGui.TextButton_6)
+coroutine.wrap(HGKCMW_fake_script)()
+local function FTKJEB_fake_script() -- ScreenGui.TextButton_5.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui.TextButton_5)
 
 	local Players = game:GetService("Players")
 	local UserInputService = game:GetService("UserInputService")
@@ -1922,7 +1916,7 @@ local function FFYGXZM_fake_script() -- ScreenGui.TextButton_6.LocalScript
 		enabled = not enabled
 	
 		if enabled then
-			print("Infinity Jump W£•CZONY")
+			print("Infinity Jump W≈ÅƒÑCZONY")
 	
 			connection = UserInputService.JumpRequest:Connect(function()
 				local character = player.Character
@@ -1933,7 +1927,7 @@ local function FFYGXZM_fake_script() -- ScreenGui.TextButton_6.LocalScript
 			end)
 	
 		else
-			print("Infinity Jump WY£•CZONY")
+			print("Infinity Jump WY≈ÅƒÑCZONY")
 	
 			if connection then
 				connection:Disconnect()
@@ -1944,15 +1938,21 @@ local function FFYGXZM_fake_script() -- ScreenGui.TextButton_6.LocalScript
 	end)
 	
 end
-coroutine.wrap(FFYGXZM_fake_script)()
-local function EXCMQJO_fake_script() -- ScreenGui.KeyFrame.LocalScript 
+coroutine.wrap(FTKJEB_fake_script)()
+local function HOOPXZ_fake_script() -- ScreenGui.TextButton_6.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui.TextButton_6)
+
+	y
+end
+coroutine.wrap(HOOPXZ_fake_script)()
+local function YIHUHQJ_fake_script() -- ScreenGui.KeyFrame.LocalScript 
 	local script = Instance.new('LocalScript', ScreenGui.KeyFrame)
 
 	local TweenService = game:GetService("TweenService")
 	
 	local player = game.Players.LocalPlayer
 	local playerGui = player:WaitForChild("PlayerGui")
-	local screenGui = playerGui:WaitForChild("ScreenGui") -- JEåLI MASZ INN• NAZW , ZMIE— TUTAJ
+	local screenGui = playerGui:WaitForChild("ScreenGui") -- JE≈öLI MASZ INNƒÑ NAZWƒò, ZMIE≈É TUTAJ
 	
 	local keyFrame = screenGui:WaitForChild("KeyFrame")
 	local mainFrame = screenGui:WaitForChild("MainFrame")
@@ -1982,10 +1982,10 @@ local function EXCMQJO_fake_script() -- ScreenGui.KeyFrame.LocalScript
 			if textBox.Text == correctCode then
 				openMainFrame()
 			else
-				textBox.Text = "Z≥y kod!"
+				textBox.Text = "Z≈Çy kod!"
 			end
 		end
 	end)
 	
 end
-coroutine.wrap(EXCMQJO_fake_script)()
+coroutine.wrap(YIHUHQJ_fake_script)()
